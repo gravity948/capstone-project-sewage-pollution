@@ -1,841 +1,1262 @@
-EUBWID,label,year,classificationLabel
-ukc1101-06000,Seaton Carew North,2021,Good
-ukc1101-06000,Seaton Carew North,2022,Good
-ukc1101-06100,Seaton Carew Centre,2021,Excellent
-ukc1101-06100,Seaton Carew Centre,2022,Excellent
-ukc1101-06200,Seaton Carew North Gare,2021,Excellent
-ukc1101-06200,Seaton Carew North Gare,2022,Excellent
-ukc1202-06300,Redcar Coatham,2021,Excellent
-ukc1202-06300,Redcar Coatham,2022,Excellent
-ukc1202-06400,Redcar Lifeboat Station,2021,Good
-ukc1202-06400,Redcar Lifeboat Station,2022,Excellent
-ukc1202-06500,Redcar Granville,2021,Good
-ukc1202-06500,Redcar Granville,2022,Excellent
-ukc1202-06600,Redcar Stray,2021,Excellent
-ukc1202-06600,Redcar Stray,2022,Excellent
-ukc1202-06650,Marske Sands,2021,Good
-ukc1202-06650,Marske Sands,2022,Excellent
-ukc1202-06700,Saltburn,2021,Excellent
-ukc1202-06700,Saltburn,2022,Good
-ukc1404-05700,Seaham Hall Beach,2021,Good
-ukc1404-05700,Seaham Hall Beach,2022,Good
-ukc1404-05800,Seaham Beach,2021,Excellent
-ukc1404-05800,Seaham Beach,2022,Good
-ukc1404-05900,Crimdon,2021,Good
-ukc1404-05900,Crimdon,2022,Excellent
-ukc2101-04000,Low Newton,2021,Excellent
-ukc2101-04000,Low Newton,2022,Excellent
-ukc2101-04200,Warkworth,2021,Excellent
-ukc2101-04200,Warkworth,2022,Excellent
-ukc2101-04250,Amble Links,2021,Excellent
-ukc2101-04250,Amble Links,2022,Excellent
-ukc2102-03600,Spittal,2021,Excellent
-ukc2102-03600,Spittal,2022,Excellent
-ukc2102-03700,Bamburgh Castle,2021,Excellent
-ukc2102-03700,Bamburgh Castle,2022,Excellent
-ukc2102-03800,Seahouses North,2021,Excellent
-ukc2102-03800,Seahouses North,2022,Excellent
-ukc2102-03900,Beadnell,2021,Excellent
-ukc2102-03900,Beadnell,2022,Good
-ukc2103-04600,Blyth South Beach,2021,Excellent
-ukc2103-04600,Blyth South Beach,2022,Excellent
-ukc2103-04700,Seaton Sluice,2021,Excellent
-ukc2103-04700,Seaton Sluice,2022,Excellent
-ukc2104-04280,Druridge Bay North,2021,Excellent
-ukc2104-04280,Druridge Bay North,2022,Excellent
-ukc2104-04300,Druridge Bay South,2021,Excellent
-ukc2104-04300,Druridge Bay South,2022,Excellent
-ukc2106-04400,Newbiggin North,2021,Excellent
-ukc2106-04400,Newbiggin North,2022,Excellent
-ukc2106-04500,Newbiggin South,2021,Good
-ukc2106-04500,Newbiggin South,2022,Good
-ukc2203-04800,Whitley Bay,2021,Excellent
-ukc2203-04800,Whitley Bay,2022,Excellent
-ukc2203-04900,Tynemouth Cullercoats,2021,Poor
-ukc2203-04900,Tynemouth Cullercoats,2022,Poor
-ukc2203-05000,Tynemouth Long Sands North,2021,Excellent
-ukc2203-05000,Tynemouth Long Sands North,2022,Excellent
-ukc2203-05100,Tynemouth Long Sands South,2021,Excellent
-ukc2203-05100,Tynemouth Long Sands South,2022,Excellent
-ukc2203-05200,Tynemouth King Edwards Bay,2021,Excellent
-ukc2203-05200,Tynemouth King Edwards Bay,2022,Excellent
-ukc2204-05300,South Shields,2021,Excellent
-ukc2204-05300,South Shields,2022,Good
-ukc2204-05400,Marsden,2021,Sufficient
-ukc2204-05400,Marsden,2022,Sufficient
-ukc2300-05500,Seaburn - Sunderland,2021,Excellent
-ukc2300-05500,Seaburn - Sunderland,2022,Excellent
-ukc2300-05600,Roker - Sunderland,2021,Excellent
-ukc2300-05600,Roker - Sunderland,2022,Excellent
-ukd1101-46100,Allonby,2021,Good
-ukd1101-46100,Allonby,2022,Good
-ukd1102-44200,Walney Biggar Bank,2021,Excellent
-ukd1102-44200,Walney Biggar Bank,2022,Excellent
-ukd1102-44300,Walney Sandy Gap,2021,Excellent
-ukd1102-44300,Walney Sandy Gap,2022,Excellent
-ukd1102-44400,Walney West Shore,2021,Excellent
-ukd1102-44400,Walney West Shore,2022,Excellent
-ukd1103-44800,Haverigg,2021,Good
-ukd1103-44800,Haverigg,2022,Sufficient
-ukd1103-45200,Silecroft,2021,Excellent
-ukd1103-45200,Silecroft,2022,Excellent
-ukd1103-45600,Seascale,2021,Good
-ukd1103-45600,Seascale,2022,Good
-ukd1103-45920,St Bees,2021,Excellent
-ukd1103-45920,St Bees,2022,Excellent
-ukd1203-45625,"Windermere, Lakeside YMCA",2021,Excellent
-ukd1203-45625,"Windermere, Lakeside YMCA",2022,Excellent
-ukd1203-45650,"Windermere, Millerground Landing",2021,Excellent
-ukd1203-45650,"Windermere, Millerground Landing",2022,Excellent
-ukd1203-45675,"Windermere, Rayrigg Meadow",2021,Excellent
-ukd1203-45675,"Windermere, Rayrigg Meadow",2022,Excellent
-ukd1203-45700,"Windermere, Fellfoot",2021,Excellent
-ukd1203-45700,"Windermere, Fellfoot",2022,Excellent
-ukd4200-42100,Blackpool South,2021,Good
-ukd4200-42100,Blackpool South,2022,Sufficient
-ukd4200-42300,Blackpool Central,2021,Good
-ukd4200-42300,Blackpool Central,2022,Sufficient
-ukd4200-42500,Blackpool North,2021,Sufficient
-ukd4200-42500,Blackpool North,2022,Poor
-ukd4200-42600,Bispham,2021,Excellent
-ukd4200-42600,Bispham,2022,Excellent
-ukd4303-41800,St Annes,2021,Good
-ukd4303-41800,St Annes,2022,Sufficient
-ukd4303-41900,St Annes North,2021,Sufficient
-ukd4303-41900,St Annes North,2022,Sufficient
-ukd4305-43260,Morecambe South,2021,Good
-ukd4305-43260,Morecambe South,2022,Good
-ukd4305-43550,Morecambe North,2021,Good
-ukd4305-43550,Morecambe North,2022,Sufficient
-ukd4312-42800,Cleveleys,2021,Good
-ukd4312-42800,Cleveleys,2022,Good
-ukd4312-43000,Fleetwood,2021,Good
-ukd4312-43000,Fleetwood,2022,Good
-ukd5300-41200,Formby,2021,Excellent
-ukd5300-41200,Formby,2022,Excellent
-ukd5300-41300,Ainsdale,2021,Good
-ukd5300-41300,Ainsdale,2022,Good
-ukd5300-41500,Southport,2021,Good
-ukd5300-41500,Southport,2022,Sufficient
-ukd5400-40750,West Kirby,2021,Excellent
-ukd5400-40750,West Kirby,2022,Excellent
-ukd5400-40800,Meols,2021,Excellent
-ukd5400-40800,Meols,2022,Excellent
-ukd5400-40900,Moreton,2021,Excellent
-ukd5400-40900,Moreton,2022,Excellent
-ukd5400-41000,Wallasey,2021,Good
-ukd5400-41000,Wallasey,2022,Excellent
-uke1200-07900,Flamborough South Landing,2021,Excellent
-uke1200-07900,Flamborough South Landing,2022,Excellent
-uke1200-07950,"Danes Dyke, Flamborough",2021,Excellent
-uke1200-07950,"Danes Dyke, Flamborough",2022,Excellent
-uke1200-08000,Bridlington North Beach,2021,Good
-uke1200-08000,Bridlington North Beach,2022,Good
-uke1200-08100,Bridlington South Beach,2021,Sufficient
-uke1200-08100,Bridlington South Beach,2022,Poor
-uke1200-08200,Wilsthorpe,2021,Good
-uke1200-08200,Wilsthorpe,2022,Good
-uke1200-08300,Fraisthorpe,2021,Good
-uke1200-08300,Fraisthorpe,2022,Good
-uke1200-08600,Skipsea,2021,Good
-uke1200-08600,Skipsea,2022,Excellent
-uke1200-08700,Hornsea,2021,Good
-uke1200-08700,Hornsea,2022,Excellent
-uke1200-08800,Tunstall,2021,Closed
-uke1200-08800,Tunstall,2022,Closed
-uke1200-08900,Withernsea,2021,Good
-uke1200-08900,Withernsea,2022,Excellent
-uke1301-09000,Cleethorpes,2021,Good
-uke1301-09000,Cleethorpes,2022,Good
-uke1301-09020,Humberston Fitties,2021,Good
-uke1301-09020,Humberston Fitties,2022,Good
-uke2206-06900,Runswick Bay,2021,Excellent
-uke2206-06900,Runswick Bay,2022,Excellent
-uke2206-07000,Sandsend,2021,Good
-uke2206-07000,Sandsend,2022,Excellent
-uke2206-07100,Whitby,2021,Excellent
-uke2206-07100,Whitby,2022,Excellent
-uke2206-07200,Robin Hoods Bay,2021,Good
-uke2206-07200,Robin Hoods Bay,2022,Good
-uke2206-07300,Scarborough North Bay,2021,Excellent
-uke2206-07300,Scarborough North Bay,2022,Excellent
-uke2206-07400,Scarborough South Bay,2021,Sufficient
-uke2206-07400,Scarborough South Bay,2022,Poor
-uke2206-07500,Cayton Bay,2021,Excellent
-uke2206-07500,Cayton Bay,2022,Excellent
-uke2206-07600,Filey,2021,Good
-uke2206-07600,Filey,2022,Good
-uke2206-07700,Reighton,2021,Excellent
-uke2206-07700,Reighton,2022,Excellent
-uke4100-08901,"Wharfe at Cromwheel, Ilkley",2021,Poor
-uke4100-08901,"Wharfe at Cromwheel, Ilkley",2022,Poor
-ukf1400-09750,Colwick Country Park (West Lake),2021,Excellent
-ukf1400-09750,Colwick Country Park (West Lake),2022,Excellent
-ukf3102-09100,Mablethorpe Town,2021,Excellent
-ukf3102-09100,Mablethorpe Town,2022,Excellent
-ukf3102-09200,Sutton-on-Sea,2021,Excellent
-ukf3102-09200,Sutton-on-Sea,2022,Excellent
-ukf3102-09300,Moggs Eye,2021,Excellent
-ukf3102-09300,Moggs Eye,2022,Excellent
-ukf3102-09400,Anderby,2021,Excellent
-ukf3102-09400,Anderby,2022,Excellent
-ukf3102-09500,Chapel St Leonards,2021,Excellent
-ukf3102-09500,Chapel St Leonards,2022,Excellent
-ukf3102-09600,Ingoldmells South,2021,Excellent
-ukf3102-09600,Ingoldmells South,2022,Excellent
-ukf3102-09700,Skegness,2021,Excellent
-ukf3102-09700,Skegness,2022,Excellent
-ukh1303-10325,Hemsby,2021,Excellent
-ukh1303-10325,Hemsby,2022,Good
-ukh1303-10350,Caister Point,2021,Excellent
-ukh1303-10350,Caister Point,2022,Excellent
-ukh1303-10400,Great Yarmouth North,2021,Excellent
-ukh1303-10400,Great Yarmouth North,2022,Excellent
-ukh1303-10500,Great Yarmouth Pier,2021,Excellent
-ukh1303-10500,Great Yarmouth Pier,2022,Excellent
-ukh1303-10600,Great Yarmouth South,2021,Excellent
-ukh1303-10600,Great Yarmouth South,2022,Excellent
-ukh1303-10650,Gorleston Beach,2021,Excellent
-ukh1303-10650,Gorleston Beach,2022,Excellent
-ukh1304-09800,Heacham,2021,Poor
-ukh1304-09800,Heacham,2022,Poor
-ukh1304-09850,Hunstanton Main Beach,2021,Sufficient
-ukh1304-09850,Hunstanton Main Beach,2022,Sufficient
-ukh1304-09900,Hunstanton (Old Hunstanton),2021,Good
-ukh1304-09900,Hunstanton (Old Hunstanton),2022,Sufficient
-ukh1305-10000,Wells,2021,Sufficient
-ukh1305-10000,Wells,2022,Good
-ukh1305-10100,Sheringham,2021,Excellent
-ukh1305-10100,Sheringham,2022,Excellent
-ukh1305-10125,West Runton,2021,Excellent
-ukh1305-10125,West Runton,2022,Excellent
-ukh1305-10150,East Runton,2021,Excellent
-ukh1305-10150,East Runton,2022,Good
-ukh1305-10200,Cromer,2021,Excellent
-ukh1305-10200,Cromer,2022,Excellent
-ukh1305-10300,Mundesley,2021,Excellent
-ukh1305-10300,Mundesley,2022,Good
-ukh1305-10310,Sea Palling,2021,Excellent
-ukh1305-10310,Sea Palling,2022,Good
-ukh1406-10900,Felixstowe North,2021,Excellent
-ukh1406-10900,Felixstowe North,2022,Excellent
-ukh1406-11000,Felixstowe South,2021,Excellent
-ukh1406-11000,Felixstowe South,2022,Excellent
-ukh1407-10750,Lowestoft (North of Claremont Pier),2021,Excellent
-ukh1407-10750,Lowestoft (North of Claremont Pier),2022,Excellent
-ukh1407-10800,Lowestoft (South of Claremont Pier),2021,Good
-ukh1407-10800,Lowestoft (South of Claremont Pier),2022,Good
-ukh1407-10830,Southwold The Pier,2021,Excellent
-ukh1407-10830,Southwold The Pier,2022,Excellent
-ukh1407-10850,Southwold The Denes,2021,Good
-ukh1407-10850,Southwold The Denes,2022,Excellent
-ukh3100-11770,Shoebury East,2021,Excellent
-ukh3100-11770,Shoebury East,2022,Excellent
-ukh3100-11780,Shoeburyness,2021,Excellent
-ukh3100-11780,Shoeburyness,2022,Excellent
-ukh3100-11800,Southend Thorpe Bay,2021,Excellent
-ukh3100-11800,Southend Thorpe Bay,2022,Excellent
-ukh3100-11830,Southend Jubilee,2021,Good
-ukh3100-11830,Southend Jubilee,2022,Good
-ukh3100-11850,Southend Three Shells,2021,Excellent
-ukh3100-11850,Southend Three Shells,2022,Excellent
-ukh3100-11900,Southend Westcliff Bay,2021,Excellent
-ukh3100-11900,Southend Westcliff Bay,2022,Excellent
-ukh3100-11902,Southend Chalkwell,2021,Good
-ukh3100-11902,Southend Chalkwell,2022,Good
-ukh3100-11904,Leigh Bell Wharf,2021,Good
-ukh3100-11904,Leigh Bell Wharf,2022,Good
-ukh3306-11750,West Mersea,2021,Good
-ukh3306-11750,West Mersea,2022,Excellent
-ukh3311-11100,Dovercourt,2021,Excellent
-ukh3311-11100,Dovercourt,2022,Excellent
-ukh3311-11250,Walton,2021,Good
-ukh3311-11250,Walton,2022,Excellent
-ukh3311-11300,Frinton,2021,Good
-ukh3311-11300,Frinton,2022,Excellent
-ukh3311-11350,Holland,2021,Excellent
-ukh3311-11350,Holland,2022,Excellent
-ukh3311-11500,Clacton,2021,Excellent
-ukh3311-11500,Clacton,2022,Excellent
-ukh3311-11600,Jaywick,2021,Good
-ukh3311-11600,Jaywick,2022,Good
-ukh3311-11650,Clacton Beach Martello Tower,2021,Good
-ukh3311-11650,Clacton Beach Martello Tower,2022,Good
-ukh3311-11700,Brightlingsea,2021,Excellent
-ukh3311-11700,Brightlingsea,2022,Excellent
-uki1101-11910,Hampstead Heath (Ladies Pond),2021,Good
-uki1101-11910,Hampstead Heath (Ladies Pond),2022,Good
-uki1101-11920,Hampstead Heath (Mens Pond),2021,Excellent
-uki1101-11920,Hampstead Heath (Mens Pond),2022,Excellent
-uki1101-11930,Hampstead Heath (Mixed Pond),2021,Good
-uki1101-11930,Hampstead Heath (Mixed Pond),2022,Excellent
-uki1106-11940,The Serpentine - Hyde Park,2021,Sufficient
-uki1106-11940,The Serpentine - Hyde Park,2022,Sufficient
-ukj1402-11946,Wolvercote Mill Stream,2022,Poor
-ukj2100-14800,Saltdean,2021,Excellent
-ukj2100-14800,Saltdean,2022,Excellent
-ukj2100-14900,Brighton Kemptown,2021,Excellent
-ukj2100-14900,Brighton Kemptown,2022,Excellent
-ukj2100-14950,Brighton Central,2021,Excellent
-ukj2100-14950,Brighton Central,2022,Good
-ukj2100-15000,Hove,2021,Excellent
-ukj2100-15000,Hove,2022,Excellent
-ukj2201-14400,Pevensey Bay,2021,Good
-ukj2201-14400,Pevensey Bay,2022,Good
-ukj2201-14500,Eastbourne,2021,Good
-ukj2201-14500,Eastbourne,2022,Sufficient
-ukj2201-14550,Birling Gap,2021,Excellent
-ukj2201-14550,Birling Gap,2022,Excellent
-ukj2202-14100,Hastings Pelham Beach,2021,Good
-ukj2202-14100,Hastings Pelham Beach,2022,Good
-ukj2202-14150,St Leonards,2021,Excellent
-ukj2202-14150,St Leonards,2022,Excellent
-ukj2203-14600,Seaford,2021,Excellent
-ukj2203-14600,Seaford,2022,Excellent
-ukj2204-13900,Camber,2021,Good
-ukj2204-13900,Camber,2022,Good
-ukj2204-14000,Winchelsea,2021,Excellent
-ukj2204-14000,Winchelsea,2022,Excellent
-ukj2205-14200,Bexhill,2021,Sufficient
-ukj2205-14200,Bexhill,2022,Sufficient
-ukj2205-14300,Norman`s Bay,2021,Good
-ukj2205-14300,Norman`s Bay,2022,Good
-ukj2310-11945,Frensham Great Pond,2021,Excellent
-ukj2310-11945,Frensham Great Pond,2022,Excellent
-ukj2401-15100,Southwick,2021,Excellent
-ukj2401-15100,Southwick,2022,Excellent
-ukj2401-15200,Shoreham Beach,2021,Excellent
-ukj2401-15200,Shoreham Beach,2022,Excellent
-ukj2401-15300,"Lancing, Beach Green",2021,Good
-ukj2401-15300,"Lancing, Beach Green",2022,Excellent
-ukj2402-15500,Littlehampton,2021,Good
-ukj2402-15500,Littlehampton,2022,Good
-ukj2402-15600,Middleton-on-sea,2021,Excellent
-ukj2402-15600,Middleton-on-sea,2022,Excellent
-ukj2402-15650,Felpham,2021,Good
-ukj2402-15650,Felpham,2022,Good
-ukj2402-15680,Bognor Regis East,2021,Excellent
-ukj2402-15680,Bognor Regis East,2022,Good
-ukj2402-15700,Bognor Regis (Aldwick),2021,Good
-ukj2402-15700,Bognor Regis (Aldwick),2022,Poor
-ukj2402-15800,Pagham,2021,Excellent
-ukj2402-15800,Pagham,2022,Excellent
-ukj2403-15900,Selsey,2021,Excellent
-ukj2403-15900,Selsey,2022,Excellent
-ukj2403-16000,Bracklesham Bay,2021,Excellent
-ukj2403-16000,Bracklesham Bay,2022,Excellent
-ukj2403-16100,West Wittering,2021,Excellent
-ukj2403-16100,West Wittering,2022,Excellent
-ukj2407-15400,Worthing,2021,Good
-ukj2407-15400,Worthing,2022,Good
-ukj3100-16500,Eastney,2021,Excellent
-ukj3100-16500,Eastney,2022,Excellent
-ukj3100-16600,Southsea East,2021,Good
-ukj3100-16600,Southsea East,2022,Sufficient
-ukj3304-16850,Hillhead,2021,Good
-ukj3304-16850,Hillhead,2022,Excellent
-ukj3305-16700,Stokes Bay,2021,Excellent
-ukj3305-16700,Stokes Bay,2022,Excellent
-ukj3305-16800,Lee-on-Solent,2021,Excellent
-ukj3305-16800,Lee-on-Solent,2022,Excellent
-ukj3307-16300,Eastoke,2021,Excellent
-ukj3307-16300,Eastoke,2022,Excellent
-ukj3307-16350,Beachlands Central,2021,Excellent
-ukj3307-16350,Beachlands Central,2022,Excellent
-ukj3307-16400,Beachlands West,2021,Excellent
-ukj3307-16400,Beachlands West,2022,Excellent
-ukj3308-16900,Calshot,2021,Excellent
-ukj3308-16900,Calshot,2022,Excellent
-ukj3308-17000,Lepe,2021,Excellent
-ukj3308-17000,Lepe,2022,Excellent
-ukj3308-17100,Milford-on-sea,2021,Excellent
-ukj3308-17100,Milford-on-sea,2022,Excellent
-ukj3400-17400,Compton Bay,2021,Excellent
-ukj3400-17400,Compton Bay,2022,Excellent
-ukj3400-17500,Totland Bay,2021,Excellent
-ukj3400-17500,Totland Bay,2022,Excellent
-ukj3400-17600,Colwell Bay,2021,Excellent
-ukj3400-17600,Colwell Bay,2022,Excellent
-ukj3400-17700,Gurnard,2021,Good
-ukj3400-17700,Gurnard,2022,Good
-ukj3400-17800,Cowes,2021,Excellent
-ukj3400-17800,Cowes,2022,Excellent
-ukj3400-17850,East Cowes,2022,Excellent
-ukj3400-17900,Ryde,2021,Excellent
-ukj3400-17900,Ryde,2022,Good
-ukj3400-18000,Seagrove,2021,Excellent
-ukj3400-18000,Seagrove,2022,Excellent
-ukj3400-18100,St Helens,2021,Excellent
-ukj3400-18100,St Helens,2022,Excellent
-ukj3400-18200,Bembridge,2021,Excellent
-ukj3400-18200,Bembridge,2022,Excellent
-ukj3400-18300,Whitecliff Bay,2021,Excellent
-ukj3400-18300,Whitecliff Bay,2022,Excellent
-ukj3400-18350,Yaverland,2021,Excellent
-ukj3400-18350,Yaverland,2022,Excellent
-ukj3400-18400,Sandown,2021,Excellent
-ukj3400-18400,Sandown,2022,Excellent
-ukj3400-18500,Shanklin,2021,Excellent
-ukj3400-18500,Shanklin,2022,Excellent
-ukj3400-18600,Ventnor,2021,Excellent
-ukj3400-18600,Ventnor,2022,Excellent
-ukj4202-12100,"West Beach, Whitstable",2021,Good
-ukj4202-12100,"West Beach, Whitstable",2022,Excellent
-ukj4202-12120,Tankerton,2021,Excellent
-ukj4202-12120,Tankerton,2022,Excellent
-ukj4202-12150,Herne Bay Central,2021,Good
-ukj4202-12150,Herne Bay Central,2022,Good
-ukj4202-12200,Herne Bay,2021,Excellent
-ukj4202-12200,Herne Bay,2022,Excellent
-ukj4204-13000,Sandwich Bay,2021,Excellent
-ukj4204-13000,Sandwich Bay,2022,Excellent
-ukj4204-13100,Deal Castle,2021,Good
-ukj4204-13100,Deal Castle,2022,Good
-ukj4204-13200,St Margaret`s Bay,2021,Excellent
-ukj4204-13200,St Margaret`s Bay,2022,Excellent
-ukj4208-13300,Folkestone,2021,Excellent
-ukj4208-13300,Folkestone,2022,Good
-ukj4208-13400,Sandgate,2021,Excellent
-ukj4208-13400,Sandgate,2022,Excellent
-ukj4208-13500,Hythe,2021,Excellent
-ukj4208-13500,Hythe,2022,Excellent
-ukj4208-13600,Dymchurch,2021,Good
-ukj4208-13600,Dymchurch,2022,Good
-ukj4208-13700,St Mary's Bay (Kent),2021,Sufficient
-ukj4208-13700,St Mary's Bay (Kent),2022,Poor
-ukj4208-13800,Littlestone,2021,Good
-ukj4208-13800,Littlestone,2022,Good
-ukj4209-11950,Sheerness,2021,Excellent
-ukj4209-11950,Sheerness,2022,Excellent
-ukj4209-11975,Minster Leas,2021,Excellent
-ukj4209-11975,Minster Leas,2022,Excellent
-ukj4209-12000,Leysdown,2021,Excellent
-ukj4209-12000,Leysdown,2022,Good
-ukj4210-12300,"Minnis Bay, Birchington",2021,Excellent
-ukj4210-12300,"Minnis Bay, Birchington",2022,Excellent
-ukj4210-12350,"West Bay, Westgate",2021,Excellent
-ukj4210-12350,"West Bay, Westgate",2022,Good
-ukj4210-12400,"St Mildred's Bay, Westgate",2021,Excellent
-ukj4210-12400,"St Mildred's Bay, Westgate",2022,Excellent
-ukj4210-12450,"Westbrook Bay, Margate",2021,Excellent
-ukj4210-12450,"Westbrook Bay, Margate",2022,Excellent
-ukj4210-12500,Margate The Bay,2021,Excellent
-ukj4210-12500,Margate The Bay,2022,Excellent
-ukj4210-12600,Margate Fulsam Rock,2021,Excellent
-ukj4210-12600,Margate Fulsam Rock,2022,Excellent
-ukj4210-12630,"Walpole Bay, Margate",2021,Excellent
-ukj4210-12630,"Walpole Bay, Margate",2022,Good
-ukj4210-12660,"Botany Bay, Broadstairs",2021,Excellent
-ukj4210-12660,"Botany Bay, Broadstairs",2022,Excellent
-ukj4210-12700,"Joss Bay, Broadstairs",2021,Excellent
-ukj4210-12700,"Joss Bay, Broadstairs",2022,Excellent
-ukj4210-12750,"Broadstairs, Stone Bay",2021,Excellent
-ukj4210-12750,"Broadstairs, Stone Bay",2022,Excellent
-ukj4210-12800,"Broadstairs, Viking Bay",2021,Sufficient
-ukj4210-12800,"Broadstairs, Viking Bay",2022,Good
-ukj4210-12850,Ramsgate Sands,2021,Good
-ukj4210-12850,Ramsgate Sands,2022,Good
-ukj4210-12900,Ramsgate Western Undercliffe,2021,Good
-ukj4210-12900,Ramsgate Western Undercliffe,2022,Good
-ukk1100-36050,Henleaze Lake,2021,Good
-ukk1100-36050,Henleaze Lake,2022,Good
-ukk1202-35700,Weston-super-Mare Uphill Slipway,2021,Sufficient
-ukk1202-35700,Weston-super-Mare Uphill Slipway,2022,Sufficient
-ukk1202-35800,Weston Main,2021,Poor
-ukk1202-35800,Weston Main,2022,Poor
-ukk1202-35900,Weston-super-Mare Sand Bay,2021,Sufficient
-ukk1202-35900,Weston-super-Mare Sand Bay,2022,Poor
-ukk1202-36000,Clevedon Beach,2021,Good
-ukk1202-36000,Clevedon Beach,2022,Good
-ukk1302-11760,Cotswold Country Park and Beach,2021,Excellent
-ukk1302-11760,Cotswold Country Park and Beach,2022,Excellent
-ukk2101-19000,Bournemouth Hengistbury West,2021,Excellent
-ukk2101-19000,Bournemouth Hengistbury West,2022,Excellent
-ukk2101-19020,Bournemouth Southbourne,2021,Excellent
-ukk2101-19020,Bournemouth Southbourne,2022,Excellent
-ukk2101-19030,Bournemouth Fisherman`s Walk,2021,Excellent
-ukk2101-19030,Bournemouth Fisherman`s Walk,2022,Excellent
-ukk2101-19050,Bournemouth Manor Steps,2021,Excellent
-ukk2101-19050,Bournemouth Manor Steps,2022,Excellent
-ukk2101-19060,Bournemouth Boscombe Pier,2021,Excellent
-ukk2101-19060,Bournemouth Boscombe Pier,2022,Good
-ukk2101-19100,Bournemouth Pier,2021,Excellent
-ukk2101-19100,Bournemouth Pier,2022,Excellent
-ukk2101-19150,Bournemouth Durley Chine,2021,Excellent
-ukk2101-19150,Bournemouth Durley Chine,2022,Excellent
-ukk2101-19160,Bournemouth Alum Chine,2021,Excellent
-ukk2101-19160,Bournemouth Alum Chine,2022,Excellent
-ukk2102-19170,Poole Branksome Chine,2021,Excellent
-ukk2102-19170,Poole Branksome Chine,2022,Excellent
-ukk2102-19190,Poole Canford Cliffs Chine,2021,Excellent
-ukk2102-19190,Poole Canford Cliffs Chine,2022,Excellent
-ukk2102-19200,Poole Shore Road Beach,2021,Excellent
-ukk2102-19200,Poole Shore Road Beach,2022,Excellent
-ukk2102-19350,Poole Sandbanks Peninsular,2021,Excellent
-ukk2102-19350,Poole Sandbanks Peninsular,2022,Excellent
-ukk2102-19400,Poole Harbour Lake,2021,Excellent
-ukk2102-19400,Poole Harbour Lake,2022,Excellent
-ukk2102-19450,Poole Harbour Rockley Sands,2021,Good
-ukk2102-19450,Poole Harbour Rockley Sands,2022,Good
-ukk2201-17200,Christchurch Bay,2021,Excellent
-ukk2201-17200,Christchurch Bay,2022,Excellent
-ukk2201-17300,Highcliffe,2021,Excellent
-ukk2201-17300,Highcliffe,2022,Excellent
-ukk2201-18700,Christchurch Highcliffe Castle,2021,Excellent
-ukk2201-18700,Christchurch Highcliffe Castle,2022,Excellent
-ukk2201-18750,Christchurch Friar`s Cliff,2021,Excellent
-ukk2201-18750,Christchurch Friar`s Cliff,2022,Excellent
-ukk2201-18800,Christchurch Avon Beach,2021,Excellent
-ukk2201-18800,Christchurch Avon Beach,2022,Excellent
-ukk2201-18900,Christchurch Mudeford Sandbank East,2021,Excellent
-ukk2201-18900,Christchurch Mudeford Sandbank East,2022,Excellent
-ukk2204-19600,Shell Bay North,2021,Excellent
-ukk2204-19600,Shell Bay North,2022,Excellent
-ukk2204-19700,Studland Knoll House,2021,Excellent
-ukk2204-19700,Studland Knoll House,2022,Excellent
-ukk2204-19800,Swanage Central,2021,Excellent
-ukk2204-19800,Swanage Central,2022,Excellent
-ukk2204-19900,Kimmeridge Bay,2021,Excellent
-ukk2204-19900,Kimmeridge Bay,2022,Excellent
-ukk2204-20000,Lulworth Cove,2021,Excellent
-ukk2204-20000,Lulworth Cove,2022,Excellent
-ukk2204-20100,Durdle Door East,2021,Excellent
-ukk2204-20100,Durdle Door East,2022,Excellent
-ukk2204-20200,Durdle Door West,2021,Excellent
-ukk2204-20200,Durdle Door West,2022,Excellent
-ukk2205-20970,Hive,2021,Excellent
-ukk2205-20970,Hive,2022,Excellent
-ukk2205-21000,West Bay (West),2021,Excellent
-ukk2205-21000,West Bay (West),2022,Excellent
-ukk2205-21100,Eypemouth,2021,Excellent
-ukk2205-21100,Eypemouth,2022,Excellent
-ukk2205-21200,Seatown,2021,Excellent
-ukk2205-21200,Seatown,2022,Excellent
-ukk2205-21300,Charmouth West,2021,Excellent
-ukk2205-21300,Charmouth West,2022,Excellent
-ukk2205-21500,Lyme Regis Front Beach,2021,Good
-ukk2205-21500,Lyme Regis Front Beach,2022,Good
-ukk2206-20300,Ringstead Bay,2021,Excellent
-ukk2206-20300,Ringstead Bay,2022,Excellent
-ukk2206-20400,Bowleaze Cove,2021,Good
-ukk2206-20400,Bowleaze Cove,2022,Sufficient
-ukk2206-20500,Church Ope Cove,2021,Excellent
-ukk2206-20500,Church Ope Cove,2022,Excellent
-ukk2206-20600,Weymouth Lodmoor,2021,Excellent
-ukk2206-20600,Weymouth Lodmoor,2022,Excellent
-ukk2206-20700,Weymouth Central,2021,Excellent
-ukk2206-20700,Weymouth Central,2022,Excellent
-ukk2206-20800,Portland Harbour Castle Cove,2021,Excellent
-ukk2206-20800,Portland Harbour Castle Cove,2022,Excellent
-ukk2206-20900,Portland Harbour Sandsfoot Castle,2021,Good
-ukk2206-20900,Portland Harbour Sandsfoot Castle,2022,Excellent
-ukk2302-35500,Berrow North of Unity Farm,2021,Good
-ukk2302-35500,Berrow North of Unity Farm,2022,Excellent
-ukk2302-35600,Brean,2021,Good
-ukk2302-35600,Brean,2022,Good
-ukk2305-34900,Porlock Weir,2021,Excellent
-ukk2305-34900,Porlock Weir,2022,Excellent
-ukk2305-35000,Minehead Terminus,2021,Good
-ukk2305-35000,Minehead Terminus,2022,Good
-ukk2305-35100,Dunster Beach,2021,Sufficient
-ukk2305-35100,Dunster Beach,2022,Poor
-ukk2305-35200,Blue Anchor West,2021,Sufficient
-ukk2305-35200,Blue Anchor West,2022,Sufficient
-ukk3101-26520,Kingsand,2021,Excellent
-ukk3101-26520,Kingsand,2022,Excellent
-ukk3101-26530,Cawsand,2021,Excellent
-ukk3101-26530,Cawsand,2022,Excellent
-ukk3101-26560,Tregonhawke,2021,Excellent
-ukk3101-26560,Tregonhawke,2022,Excellent
-ukk3101-26570,Sharrow,2021,Excellent
-ukk3101-26570,Sharrow,2022,Excellent
-ukk3101-26600,Portwrinkle,2021,Good
-ukk3101-26600,Portwrinkle,2022,Excellent
-ukk3101-26700,Downderry,2021,Excellent
-ukk3101-26700,Downderry,2022,Excellent
-ukk3101-26800,Seaton (Cornwall),2021,Excellent
-ukk3101-26800,Seaton (Cornwall),2022,Excellent
-ukk3101-26900,Millendreath,2021,Good
-ukk3101-26900,Millendreath,2022,Good
-ukk3101-27000,East Looe,2021,Good
-ukk3101-27000,East Looe,2022,Good
-ukk3102-28500,Pendower,2021,Good
-ukk3102-28500,Pendower,2022,Excellent
-ukk3102-28550,Porthcurnick,2021,Good
-ukk3102-28550,Porthcurnick,2022,Excellent
-ukk3102-28600,Gyllyngvase,2021,Excellent
-ukk3102-28600,Gyllyngvase,2022,Excellent
-ukk3102-28700,Swanpool,2021,Excellent
-ukk3102-28700,Swanpool,2022,Good
-ukk3102-28800,Maenporth,2021,Good
-ukk3102-28800,Maenporth,2022,Good
-ukk3102-31600,Porthtowan,2021,Excellent
-ukk3102-31600,Porthtowan,2022,Excellent
-ukk3102-31650,Chapel Porth,2021,Excellent
-ukk3102-31650,Chapel Porth,2022,Excellent
-ukk3102-31700,Trevaunance Cove,2021,Excellent
-ukk3102-31700,Trevaunance Cove,2022,Excellent
-ukk3102-31800,Perranporth,2021,Excellent
-ukk3102-31800,Perranporth,2022,Excellent
-ukk3102-31900,Perranporth Penhale Sands,2021,Excellent
-ukk3102-31900,Perranporth Penhale Sands,2022,Excellent
-ukk3102-32000,Holywell Bay,2021,Excellent
-ukk3102-32000,Holywell Bay,2022,Excellent
-ukk3103-28900,Porthallow,2021,Excellent
-ukk3103-28900,Porthallow,2022,Excellent
-ukk3103-29000,Porthoustock,2021,Excellent
-ukk3103-29000,Porthoustock,2022,Excellent
-ukk3103-29100,Coverack,2021,Excellent
-ukk3103-29100,Coverack,2022,Excellent
-ukk3103-29200,Kennack Sands,2021,Excellent
-ukk3103-29200,Kennack Sands,2022,Excellent
-ukk3103-29400,Polurrian Cove,2021,Excellent
-ukk3103-29400,Polurrian Cove,2022,Excellent
-ukk3103-29500,Poldhu Cove,2021,Excellent
-ukk3103-29500,Poldhu Cove,2022,Excellent
-ukk3103-29501,Church Cove,2021,Excellent
-ukk3103-29501,Church Cove,2022,Excellent
-ukk3103-29800,Porthleven Sands,2021,Good
-ukk3103-29800,Porthleven Sands,2022,Good
-ukk3103-29900,Praa Sands East,2021,Excellent
-ukk3103-29900,Praa Sands East,2022,Excellent
-ukk3103-30000,Praa Sands West,2021,Excellent
-ukk3103-30000,Praa Sands West,2022,Excellent
-ukk3103-31500,Portreath,2021,Excellent
-ukk3103-31500,Portreath,2022,Excellent
-ukk3104-32550,Porthcothan,2021,Excellent
-ukk3104-32550,Porthcothan,2022,Excellent
-ukk3104-32600,Treyarnon Bay,2021,Excellent
-ukk3104-32600,Treyarnon Bay,2022,Excellent
-ukk3104-32700,Constantine Bay,2021,Excellent
-ukk3104-32700,Constantine Bay,2022,Excellent
-ukk3104-32750,Booby's Bay,2021,Excellent
-ukk3104-32750,Booby's Bay,2022,Excellent
-ukk3104-32800,Mother Ivey`s Bay,2021,Excellent
-ukk3104-32800,Mother Ivey`s Bay,2022,Excellent
-ukk3104-32900,Harlyn Bay,2021,Excellent
-ukk3104-32900,Harlyn Bay,2022,Excellent
-ukk3104-33000,Trevone Bay,2021,Excellent
-ukk3104-33000,Trevone Bay,2022,Excellent
-ukk3104-33200,Daymer Bay,2021,Excellent
-ukk3104-33200,Daymer Bay,2022,Excellent
-ukk3104-33300,Polzeath,2021,Excellent
-ukk3104-33300,Polzeath,2022,Excellent
-ukk3104-33350,Trebarwith Strand,2021,Good
-ukk3104-33350,Trebarwith Strand,2022,Good
-ukk3104-33360,Crackington Haven,2021,Excellent
-ukk3104-33360,Crackington Haven,2022,Excellent
-ukk3104-33400,Widemouth Sand,2021,Excellent
-ukk3104-33400,Widemouth Sand,2022,Excellent
-ukk3104-33500,Summerleaze,2021,Excellent
-ukk3104-33500,Summerleaze,2022,Excellent
-ukk3104-33600,Crooklets,2021,Excellent
-ukk3104-33600,Crooklets,2022,Excellent
-ukk3104-33650,Northcott Mouth,2021,Excellent
-ukk3104-33650,Northcott Mouth,2022,Excellent
-ukk3104-33700,Sandymouth,2021,Excellent
-ukk3104-33700,Sandymouth,2022,Excellent
-ukk3105-30100,Perranuthnoe,2021,Excellent
-ukk3105-30100,Perranuthnoe,2022,Excellent
-ukk3105-30200,Marazion,2021,Good
-ukk3105-30200,Marazion,2022,Good
-ukk3105-30300,Long Rock,2021,Good
-ukk3105-30300,Long Rock,2022,Good
-ukk3105-30400,Penzance,2021,Good
-ukk3105-30400,Penzance,2022,Good
-ukk3105-30500,Wherry Town,2021,Good
-ukk3105-30500,Wherry Town,2022,Good
-ukk3105-30600,Porthcurno,2021,Excellent
-ukk3105-30600,Porthcurno,2022,Excellent
-ukk3105-30700,Sennen,2021,Excellent
-ukk3105-30700,Sennen,2022,Excellent
-ukk3105-30750,Gwynver,2021,Excellent
-ukk3105-30750,Gwynver,2022,Excellent
-ukk3105-30800,Porthmeor,2021,Excellent
-ukk3105-30800,Porthmeor,2022,Excellent
-ukk3105-30900,Porthgwidden,2021,Excellent
-ukk3105-30900,Porthgwidden,2022,Excellent
-ukk3105-31000,Porthminster,2021,Excellent
-ukk3105-31000,Porthminster,2022,Good
-ukk3105-31100,Carbis Bay,2021,Excellent
-ukk3105-31100,Carbis Bay,2022,Excellent
-ukk3105-31200,Porthkidney Sands,2021,Good
-ukk3105-31200,Porthkidney Sands,2022,Good
-ukk3105-31250,Mexico Towans,2021,Excellent
-ukk3105-31250,Mexico Towans,2022,Excellent
-ukk3105-31300,Hayle Towans,2021,Excellent
-ukk3105-31300,Hayle Towans,2022,Excellent
-ukk3105-31350,Upton Towans,2021,Excellent
-ukk3105-31350,Upton Towans,2022,Excellent
-ukk3105-31400,Gwithian Towans,2021,Excellent
-ukk3105-31400,Gwithian Towans,2022,Excellent
-ukk3105-31450,Godrevy Towans,2021,Excellent
-ukk3105-31450,Godrevy Towans,2022,Excellent
-ukk3106-27100,Readymoney Cove,2021,Excellent
-ukk3106-27100,Readymoney Cove,2022,Good
-ukk3106-27200,Polkerris,2021,Good
-ukk3106-27200,Polkerris,2022,Good
-ukk3106-27300,Par Sands,2021,Sufficient
-ukk3106-27300,Par Sands,2022,Good
-ukk3106-27400,Shorthorn Beach,2021,Excellent
-ukk3106-27400,Shorthorn Beach,2022,Excellent
-ukk3106-27500,Crinnis Beach,2021,Excellent
-ukk3106-27500,Crinnis Beach,2022,Excellent
-ukk3106-27600,Charlestown,2021,Excellent
-ukk3106-27600,Charlestown,2022,Excellent
-ukk3106-27700,Duporth,2021,Excellent
-ukk3106-27700,Duporth,2022,Excellent
-ukk3106-27800,Porthpean,2021,Excellent
-ukk3106-27800,Porthpean,2022,Excellent
-ukk3106-27900,Pentewan,2021,Excellent
-ukk3106-27900,Pentewan,2022,Excellent
-ukk3106-28000,Polstreath,2021,Excellent
-ukk3106-28000,Polstreath,2022,Excellent
-ukk3106-28100,Portmellon,2021,Excellent
-ukk3106-28100,Portmellon,2022,Excellent
-ukk3106-28200,Gorran Haven Little Perhaver,2021,Good
-ukk3106-28200,Gorran Haven Little Perhaver,2022,Excellent
-ukk3106-28300,Vault Beach,2021,Excellent
-ukk3106-28300,Vault Beach,2022,Excellent
-ukk3106-28400,Porthluney,2021,Sufficient
-ukk3106-28400,Porthluney,2022,Sufficient
-ukk3106-32100,Crantock,2021,Good
-ukk3106-32100,Crantock,2022,Good
-ukk3106-32150,Fistral South,2021,Excellent
-ukk3106-32150,Fistral South,2022,Excellent
-ukk3106-32200,Fistral North,2021,Excellent
-ukk3106-32200,Fistral North,2022,Excellent
-ukk3106-32300,Towan,2021,Excellent
-ukk3106-32300,Towan,2022,Excellent
-ukk3106-32310,Great Western,2021,Excellent
-ukk3106-32310,Great Western,2022,Excellent
-ukk3106-32320,Tolcarne,2021,Excellent
-ukk3106-32320,Tolcarne,2022,Excellent
-ukk3106-32330,Lusty Glaze,2021,Excellent
-ukk3106-32330,Lusty Glaze,2022,Excellent
-ukk3106-32340,Porth,2021,Good
-ukk3106-32340,Porth,2022,Good
-ukk3106-32400,Watergate Bay,2021,Excellent
-ukk3106-32400,Watergate Bay,2022,Excellent
-ukk3106-32500,Mawgan Porth,2021,Excellent
-ukk3106-32500,Mawgan Porth,2022,Excellent
-ukk4100-26400,Plymouth Hoe East,2021,Good
-ukk4100-26400,Plymouth Hoe East,2022,Excellent
-ukk4100-26500,Plymouth Hoe West,2021,Excellent
-ukk4100-26500,Plymouth Hoe West,2022,Excellent
-ukk4200-23100,Maidencombe,2021,Excellent
-ukk4200-23100,Maidencombe,2022,Excellent
-ukk4200-23200,Watcombe,2021,Closed
-ukk4200-23200,Watcombe,2022,Closed
-ukk4200-23300,Oddicombe,2021,Excellent
-ukk4200-23300,Oddicombe,2022,Excellent
-ukk4200-23400,Babbacombe,2021,Excellent
-ukk4200-23400,Babbacombe,2022,Excellent
-ukk4200-23501,Anstey's Cove (Torquay),2021,Excellent
-ukk4200-23501,Anstey's Cove (Torquay),2022,Excellent
-ukk4200-23600,Meadfoot,2021,Excellent
-ukk4200-23600,Meadfoot,2022,Excellent
-ukk4200-23700,Beacon Cove,2021,Excellent
-ukk4200-23700,Beacon Cove,2022,Excellent
-ukk4200-23800,Torre Abbey,2021,Excellent
-ukk4200-23800,Torre Abbey,2022,Excellent
-ukk4200-23900,Hollicombe,2021,Good
-ukk4200-23900,Hollicombe,2022,Good
-ukk4200-24000,Paignton Preston Sands,2021,Excellent
-ukk4200-24000,Paignton Preston Sands,2022,Excellent
-ukk4200-24100,Paignton Paignton Sands,2021,Good
-ukk4200-24100,Paignton Paignton Sands,2022,Good
-ukk4200-24200,Goodrington,2021,Good
-ukk4200-24200,Goodrington,2022,Good
-ukk4200-24300,Broadsands,2021,Excellent
-ukk4200-24300,Broadsands,2022,Excellent
-ukk4200-24500,Breakwater Beach (Shoalstone),2021,Excellent
-ukk4200-24500,Breakwater Beach (Shoalstone),2022,Excellent
-ukk4200-24600,St Mary's Bay (Devon),2021,Excellent
-ukk4200-24600,St Mary's Bay (Devon),2022,Excellent
-ukk4301-21600,Seaton (Devon),2021,Excellent
-ukk4301-21600,Seaton (Devon),2022,Excellent
-ukk4301-21700,Beer,2021,Excellent
-ukk4301-21700,Beer,2022,Excellent
-ukk4301-21800,Sidmouth Town,2021,Excellent
-ukk4301-21800,Sidmouth Town,2022,Excellent
-ukk4301-21900,Sidmouth Jacobs Ladder,2021,Excellent
-ukk4301-21900,Sidmouth Jacobs Ladder,2022,Excellent
-ukk4301-22000,Ladram Bay,2021,Good
-ukk4301-22000,Ladram Bay,2022,Excellent
-ukk4301-22100,Budleigh Salterton,2021,Excellent
-ukk4301-22100,Budleigh Salterton,2022,Excellent
-ukk4301-22200,Sandy Bay,2021,Good
-ukk4301-22200,Sandy Bay,2022,Good
-ukk4301-22300,Exmouth,2021,Excellent
-ukk4301-22300,Exmouth,2022,Excellent
-ukk4304-34100,Saunton Sands,2021,Excellent
-ukk4304-34100,Saunton Sands,2022,Excellent
-ukk4304-34200,Croyde Bay,2021,Good
-ukk4304-34200,Croyde Bay,2022,Excellent
-ukk4304-34300,Putsborough,2021,Excellent
-ukk4304-34300,Putsborough,2022,Excellent
-ukk4304-34400,Woolacombe Village,2021,Excellent
-ukk4304-34400,Woolacombe Village,2022,Excellent
-ukk4304-34410,"Combesgate Beach, Woolacombe",2021,Excellent
-ukk4304-34410,"Combesgate Beach, Woolacombe",2022,Excellent
-ukk4304-34450,Ilfracombe Tunnels Beach,2021,Excellent
-ukk4304-34450,Ilfracombe Tunnels Beach,2022,Excellent
-ukk4304-34600,Ilfracombe Hele,2021,Good
-ukk4304-34600,Ilfracombe Hele,2022,Good
-ukk4304-34700,Combe Martin,2021,Sufficient
-ukk4304-34700,Combe Martin,2022,Good
-ukk4304-34800,Lynmouth,2021,Excellent
-ukk4304-34800,Lynmouth,2022,Excellent
-ukk4305-24700,Dartmouth Castle and Sugary Cove,2021,Excellent
-ukk4305-24700,Dartmouth Castle and Sugary Cove,2022,Excellent
-ukk4305-24800,Blackpool Sands,2021,Excellent
-ukk4305-24800,Blackpool Sands,2022,Excellent
-ukk4305-24900,Slapton Sands Monument,2021,Excellent
-ukk4305-24900,Slapton Sands Monument,2022,Excellent
-ukk4305-25000,Slapton Sands Torcross,2021,Excellent
-ukk4305-25000,Slapton Sands Torcross,2022,Excellent
-ukk4305-25100,Mill Bay,2021,Excellent
-ukk4305-25100,Mill Bay,2022,Excellent
-ukk4305-25200,Salcombe North Sands,2021,Excellent
-ukk4305-25200,Salcombe North Sands,2022,Excellent
-ukk4305-25300,Salcombe South Sands,2021,Excellent
-ukk4305-25300,Salcombe South Sands,2022,Excellent
-ukk4305-25400,Hope Cove,2021,Excellent
-ukk4305-25400,Hope Cove,2022,Excellent
-ukk4305-25500,Thurlestone South,2021,Excellent
-ukk4305-25500,Thurlestone South,2022,Excellent
-ukk4305-25600,Thurlestone North,2021,Excellent
-ukk4305-25600,Thurlestone North,2022,Excellent
-ukk4305-25700,Bantham,2021,Excellent
-ukk4305-25700,Bantham,2022,Excellent
-ukk4305-25800,Bigbury-on-Sea South,2021,Excellent
-ukk4305-25800,Bigbury-on-Sea South,2022,Excellent
-ukk4305-25900,Bigbury-on-Sea North,2021,Excellent
-ukk4305-25900,Bigbury-on-Sea North,2022,Excellent
-ukk4305-26000,Challaborough,2021,Excellent
-ukk4305-26000,Challaborough,2022,Excellent
-ukk4305-26100,Mothecombe,2021,Good
-ukk4305-26100,Mothecombe,2022,Good
-ukk4305-26200,Wembury,2021,Excellent
-ukk4305-26200,Wembury,2022,Excellent
-ukk4305-26300,Bovisand,2021,Excellent
-ukk4305-26300,Bovisand,2022,Excellent
-ukk4306-22400,Dawlish Warren,2021,Excellent
-ukk4306-22400,Dawlish Warren,2022,Excellent
-ukk4306-22500,Dawlish Town,2021,Good
-ukk4306-22500,Dawlish Town,2022,Good
-ukk4306-22600,Dawlish Coryton Cove,2021,Excellent
-ukk4306-22600,Dawlish Coryton Cove,2022,Excellent
-ukk4306-22700,Teignmouth Holcombe,2021,Excellent
-ukk4306-22700,Teignmouth Holcombe,2022,Excellent
-ukk4306-22800,Teignmouth Town,2021,Excellent
-ukk4306-22800,Teignmouth Town,2022,Good
-ukk4306-22900,Shaldon,2021,Excellent
-ukk4306-22900,Shaldon,2022,Excellent
-ukk4306-23000,Ness Cove,2021,Excellent
-ukk4306-23000,Ness Cove,2022,Excellent
-ukk4307-33800,Hartland Quay,2021,Excellent
-ukk4307-33800,Hartland Quay,2022,Excellent
-ukk4307-33900,Westward Ho!,2021,Excellent
-ukk4307-33900,Westward Ho!,2022,Excellent
+EUBWID,label,year,classificationLabel,regime,classificationType
+ukc1101-06000,Seaton Carew North,2019,Good,1976 directive,actual assessment
+ukc1101-06000,Seaton Carew North,2021,Good,1976 directive,actual assessment
+ukc1101-06000,Seaton Carew North,2022,Good,1976 directive,actual assessment
+ukc1101-06100,Seaton Carew Centre,2019,Excellent,1976 directive,actual assessment
+ukc1101-06100,Seaton Carew Centre,2021,Excellent,1976 directive,actual assessment
+ukc1101-06100,Seaton Carew Centre,2022,Excellent,1976 directive,actual assessment
+ukc1101-06200,Seaton Carew North Gare,2019,Excellent,1976 directive,actual assessment
+ukc1101-06200,Seaton Carew North Gare,2021,Excellent,1976 directive,actual assessment
+ukc1101-06200,Seaton Carew North Gare,2022,Excellent,1976 directive,actual assessment
+ukc1202-06300,Redcar Coatham,2019,Excellent,1976 directive,actual assessment
+ukc1202-06300,Redcar Coatham,2021,Excellent,1976 directive,actual assessment
+ukc1202-06300,Redcar Coatham,2022,Excellent,1976 directive,actual assessment
+ukc1202-06400,Redcar Lifeboat Station,2019,Excellent,1976 directive,actual assessment
+ukc1202-06400,Redcar Lifeboat Station,2021,Good,1976 directive,actual assessment
+ukc1202-06400,Redcar Lifeboat Station,2022,Excellent,1976 directive,actual assessment
+ukc1202-06500,Redcar Granville,2019,Good,1976 directive,actual assessment
+ukc1202-06500,Redcar Granville,2021,Good,1976 directive,actual assessment
+ukc1202-06500,Redcar Granville,2022,Excellent,1976 directive,actual assessment
+ukc1202-06600,Redcar Stray,2019,Excellent,1976 directive,actual assessment
+ukc1202-06600,Redcar Stray,2021,Excellent,1976 directive,actual assessment
+ukc1202-06600,Redcar Stray,2022,Excellent,1976 directive,actual assessment
+ukc1202-06650,Marske Sands,2019,Good,1976 directive,actual assessment
+ukc1202-06650,Marske Sands,2021,Good,1976 directive,actual assessment
+ukc1202-06650,Marske Sands,2022,Excellent,1976 directive,actual assessment
+ukc1202-06700,Saltburn,2019,Excellent,1976 directive,actual assessment
+ukc1202-06700,Saltburn,2021,Excellent,1976 directive,actual assessment
+ukc1202-06700,Saltburn,2022,Good,1976 directive,actual assessment
+ukc1404-05700,Seaham Hall Beach,2019,Good,1976 directive,actual assessment
+ukc1404-05700,Seaham Hall Beach,2021,Good,1976 directive,actual assessment
+ukc1404-05700,Seaham Hall Beach,2022,Good,1976 directive,actual assessment
+ukc1404-05800,Seaham Beach,2019,Excellent,1976 directive,actual assessment
+ukc1404-05800,Seaham Beach,2021,Excellent,1976 directive,actual assessment
+ukc1404-05800,Seaham Beach,2022,Good,1976 directive,actual assessment
+ukc1404-05900,Crimdon,2019,Excellent,1976 directive,actual assessment
+ukc1404-05900,Crimdon,2021,Good,1976 directive,actual assessment
+ukc1404-05900,Crimdon,2022,Excellent,1976 directive,actual assessment
+ukc2101-04000,Low Newton,2019,Excellent,1976 directive,actual assessment
+ukc2101-04000,Low Newton,2021,Excellent,1976 directive,actual assessment
+ukc2101-04000,Low Newton,2022,Excellent,1976 directive,actual assessment
+ukc2101-04200,Warkworth,2019,Excellent,1976 directive,actual assessment
+ukc2101-04200,Warkworth,2021,Excellent,1976 directive,actual assessment
+ukc2101-04200,Warkworth,2022,Excellent,1976 directive,actual assessment
+ukc2101-04250,Amble Links,2019,Excellent,1976 directive,actual assessment
+ukc2101-04250,Amble Links,2021,Excellent,1976 directive,actual assessment
+ukc2101-04250,Amble Links,2022,Excellent,1976 directive,actual assessment
+ukc2102-03600,Spittal,2019,Good,1976 directive,actual assessment
+ukc2102-03600,Spittal,2021,Excellent,1976 directive,actual assessment
+ukc2102-03600,Spittal,2022,Excellent,1976 directive,actual assessment
+ukc2102-03700,Bamburgh Castle,2019,Excellent,1976 directive,actual assessment
+ukc2102-03700,Bamburgh Castle,2021,Excellent,1976 directive,actual assessment
+ukc2102-03700,Bamburgh Castle,2022,Excellent,1976 directive,actual assessment
+ukc2102-03800,Seahouses North,2019,Excellent,1976 directive,actual assessment
+ukc2102-03800,Seahouses North,2021,Excellent,1976 directive,actual assessment
+ukc2102-03800,Seahouses North,2022,Excellent,1976 directive,actual assessment
+ukc2102-03900,Beadnell,2019,Excellent,1976 directive,actual assessment
+ukc2102-03900,Beadnell,2021,Excellent,1976 directive,actual assessment
+ukc2102-03900,Beadnell,2022,Good,1976 directive,actual assessment
+ukc2103-04600,Blyth South Beach,2019,Excellent,1976 directive,actual assessment
+ukc2103-04600,Blyth South Beach,2021,Excellent,1976 directive,actual assessment
+ukc2103-04600,Blyth South Beach,2022,Excellent,1976 directive,actual assessment
+ukc2103-04700,Seaton Sluice,2019,Excellent,1976 directive,actual assessment
+ukc2103-04700,Seaton Sluice,2021,Excellent,1976 directive,actual assessment
+ukc2103-04700,Seaton Sluice,2022,Excellent,1976 directive,actual assessment
+ukc2104-04280,Druridge Bay North,2019,Excellent,1976 directive,actual assessment
+ukc2104-04280,Druridge Bay North,2021,Excellent,1976 directive,actual assessment
+ukc2104-04280,Druridge Bay North,2022,Excellent,1976 directive,actual assessment
+ukc2104-04300,Druridge Bay South,2019,Excellent,1976 directive,actual assessment
+ukc2104-04300,Druridge Bay South,2021,Excellent,1976 directive,actual assessment
+ukc2104-04300,Druridge Bay South,2022,Excellent,1976 directive,actual assessment
+ukc2106-04400,Newbiggin North,2019,Excellent,1976 directive,actual assessment
+ukc2106-04400,Newbiggin North,2021,Excellent,1976 directive,actual assessment
+ukc2106-04400,Newbiggin North,2022,Excellent,1976 directive,actual assessment
+ukc2106-04500,Newbiggin South,2019,Good,1976 directive,actual assessment
+ukc2106-04500,Newbiggin South,2021,Good,1976 directive,actual assessment
+ukc2106-04500,Newbiggin South,2022,Good,1976 directive,actual assessment
+ukc2203-04800,Whitley Bay,2019,Excellent,1976 directive,actual assessment
+ukc2203-04800,Whitley Bay,2021,Excellent,1976 directive,actual assessment
+ukc2203-04800,Whitley Bay,2022,Excellent,1976 directive,actual assessment
+ukc2203-04900,Tynemouth Cullercoats,2019,Poor,1976 directive,actual assessment
+ukc2203-04900,Tynemouth Cullercoats,2021,Poor,1976 directive,actual assessment
+ukc2203-04900,Tynemouth Cullercoats,2022,Poor,1976 directive,actual assessment
+ukc2203-05000,Tynemouth Long Sands North,2019,Excellent,1976 directive,actual assessment
+ukc2203-05000,Tynemouth Long Sands North,2021,Excellent,1976 directive,actual assessment
+ukc2203-05000,Tynemouth Long Sands North,2022,Excellent,1976 directive,actual assessment
+ukc2203-05100,Tynemouth Long Sands South,2019,Excellent,1976 directive,actual assessment
+ukc2203-05100,Tynemouth Long Sands South,2021,Excellent,1976 directive,actual assessment
+ukc2203-05100,Tynemouth Long Sands South,2022,Excellent,1976 directive,actual assessment
+ukc2203-05200,Tynemouth King Edwards Bay,2019,Excellent,1976 directive,actual assessment
+ukc2203-05200,Tynemouth King Edwards Bay,2021,Excellent,1976 directive,actual assessment
+ukc2203-05200,Tynemouth King Edwards Bay,2022,Excellent,1976 directive,actual assessment
+ukc2204-05300,South Shields,2019,Good,1976 directive,actual assessment
+ukc2204-05300,South Shields,2021,Excellent,1976 directive,actual assessment
+ukc2204-05300,South Shields,2022,Good,1976 directive,actual assessment
+ukc2204-05400,Marsden,2019,Good,1976 directive,actual assessment
+ukc2204-05400,Marsden,2021,Sufficient,1976 directive,actual assessment
+ukc2204-05400,Marsden,2022,Sufficient,1976 directive,actual assessment
+ukc2300-05500,Seaburn - Sunderland,2019,Excellent,1976 directive,actual assessment
+ukc2300-05500,Seaburn - Sunderland,2021,Excellent,1976 directive,actual assessment
+ukc2300-05500,Seaburn - Sunderland,2022,Excellent,1976 directive,actual assessment
+ukc2300-05600,Roker - Sunderland,2019,Excellent,1976 directive,actual assessment
+ukc2300-05600,Roker - Sunderland,2021,Excellent,1976 directive,actual assessment
+ukc2300-05600,Roker - Sunderland,2022,Excellent,1976 directive,actual assessment
+ukd1101-46100,Allonby,2019,Good,1976 directive,actual assessment
+ukd1101-46100,Allonby,2021,Good,1976 directive,actual assessment
+ukd1101-46100,Allonby,2022,Good,1976 directive,actual assessment
+ukd1102-44200,Walney Biggar Bank,2019,Good,1976 directive,actual assessment
+ukd1102-44200,Walney Biggar Bank,2021,Excellent,1976 directive,actual assessment
+ukd1102-44200,Walney Biggar Bank,2022,Excellent,1976 directive,actual assessment
+ukd1102-44300,Walney Sandy Gap,2019,Good,1976 directive,actual assessment
+ukd1102-44300,Walney Sandy Gap,2021,Excellent,1976 directive,actual assessment
+ukd1102-44300,Walney Sandy Gap,2022,Excellent,1976 directive,actual assessment
+ukd1102-44400,Walney West Shore,2019,Good,1976 directive,actual assessment
+ukd1102-44400,Walney West Shore,2021,Excellent,1976 directive,actual assessment
+ukd1102-44400,Walney West Shore,2022,Excellent,1976 directive,actual assessment
+ukd1103-44800,Haverigg,2019,Sufficient,1976 directive,actual assessment
+ukd1103-44800,Haverigg,2021,Good,1976 directive,actual assessment
+ukd1103-44800,Haverigg,2022,Sufficient,1976 directive,actual assessment
+ukd1103-45200,Silecroft,2019,Excellent,1976 directive,actual assessment
+ukd1103-45200,Silecroft,2021,Excellent,1976 directive,actual assessment
+ukd1103-45200,Silecroft,2022,Excellent,1976 directive,actual assessment
+ukd1103-45600,Seascale,2019,Good,1976 directive,actual assessment
+ukd1103-45600,Seascale,2021,Good,1976 directive,actual assessment
+ukd1103-45600,Seascale,2022,Good,1976 directive,actual assessment
+ukd1103-45920,St Bees,2019,Excellent,1976 directive,actual assessment
+ukd1103-45920,St Bees,2021,Excellent,1976 directive,actual assessment
+ukd1103-45920,St Bees,2022,Excellent,1976 directive,actual assessment
+ukd1203-45625,"Windermere, Lakeside YMCA",2019,Excellent,1976 directive,actual assessment
+ukd1203-45625,"Windermere, Lakeside YMCA",2021,Excellent,1976 directive,actual assessment
+ukd1203-45625,"Windermere, Lakeside YMCA",2022,Excellent,1976 directive,actual assessment
+ukd1203-45650,"Windermere, Millerground Landing",2019,Excellent,1976 directive,actual assessment
+ukd1203-45650,"Windermere, Millerground Landing",2021,Excellent,1976 directive,actual assessment
+ukd1203-45650,"Windermere, Millerground Landing",2022,Excellent,1976 directive,actual assessment
+ukd1203-45675,"Windermere, Rayrigg Meadow",2019,Excellent,1976 directive,actual assessment
+ukd1203-45675,"Windermere, Rayrigg Meadow",2021,Excellent,1976 directive,actual assessment
+ukd1203-45675,"Windermere, Rayrigg Meadow",2022,Excellent,1976 directive,actual assessment
+ukd1203-45700,"Windermere, Fellfoot",2019,Excellent,1976 directive,actual assessment
+ukd1203-45700,"Windermere, Fellfoot",2021,Excellent,1976 directive,actual assessment
+ukd1203-45700,"Windermere, Fellfoot",2022,Excellent,1976 directive,actual assessment
+ukd4200-42100,Blackpool South,2019,Good,1976 directive,actual assessment
+ukd4200-42100,Blackpool South,2021,Good,1976 directive,actual assessment
+ukd4200-42100,Blackpool South,2022,Sufficient,1976 directive,actual assessment
+ukd4200-42300,Blackpool Central,2019,Good,1976 directive,actual assessment
+ukd4200-42300,Blackpool Central,2021,Good,1976 directive,actual assessment
+ukd4200-42300,Blackpool Central,2022,Sufficient,1976 directive,actual assessment
+ukd4200-42500,Blackpool North,2019,Good,1976 directive,actual assessment
+ukd4200-42500,Blackpool North,2021,Sufficient,1976 directive,actual assessment
+ukd4200-42500,Blackpool North,2022,Poor,1976 directive,actual assessment
+ukd4200-42600,Bispham,2019,Excellent,1976 directive,actual assessment
+ukd4200-42600,Bispham,2021,Excellent,1976 directive,actual assessment
+ukd4200-42600,Bispham,2022,Excellent,1976 directive,actual assessment
+ukd4303-41800,St Annes,2019,Good,1976 directive,actual assessment
+ukd4303-41800,St Annes,2021,Good,1976 directive,actual assessment
+ukd4303-41800,St Annes,2022,Sufficient,1976 directive,actual assessment
+ukd4303-41900,St Annes North,2019,Sufficient,1976 directive,actual assessment
+ukd4303-41900,St Annes North,2021,Sufficient,1976 directive,actual assessment
+ukd4303-41900,St Annes North,2022,Sufficient,1976 directive,actual assessment
+ukd4305-43260,Morecambe South,2019,Sufficient,1976 directive,actual assessment
+ukd4305-43260,Morecambe South,2021,Good,1976 directive,actual assessment
+ukd4305-43260,Morecambe South,2022,Good,1976 directive,actual assessment
+ukd4305-43550,Morecambe North,2019,Sufficient,1976 directive,actual assessment
+ukd4305-43550,Morecambe North,2021,Good,1976 directive,actual assessment
+ukd4305-43550,Morecambe North,2022,Sufficient,1976 directive,actual assessment
+ukd4312-42800,Cleveleys,2019,Good,1976 directive,actual assessment
+ukd4312-42800,Cleveleys,2021,Good,1976 directive,actual assessment
+ukd4312-42800,Cleveleys,2022,Good,1976 directive,actual assessment
+ukd4312-43000,Fleetwood,2019,Good,1976 directive,actual assessment
+ukd4312-43000,Fleetwood,2021,Good,1976 directive,actual assessment
+ukd4312-43000,Fleetwood,2022,Good,1976 directive,actual assessment
+ukd5300-41200,Formby,2019,Excellent,1976 directive,actual assessment
+ukd5300-41200,Formby,2021,Excellent,1976 directive,actual assessment
+ukd5300-41200,Formby,2022,Excellent,1976 directive,actual assessment
+ukd5300-41300,Ainsdale,2019,Good,1976 directive,actual assessment
+ukd5300-41300,Ainsdale,2021,Good,1976 directive,actual assessment
+ukd5300-41300,Ainsdale,2022,Good,1976 directive,actual assessment
+ukd5300-41500,Southport,2019,Good,1976 directive,actual assessment
+ukd5300-41500,Southport,2021,Good,1976 directive,actual assessment
+ukd5300-41500,Southport,2022,Sufficient,1976 directive,actual assessment
+ukd5400-40750,West Kirby,2019,Excellent,1976 directive,actual assessment
+ukd5400-40750,West Kirby,2021,Excellent,1976 directive,actual assessment
+ukd5400-40750,West Kirby,2022,Excellent,1976 directive,actual assessment
+ukd5400-40800,Meols,2019,Excellent,1976 directive,actual assessment
+ukd5400-40800,Meols,2021,Excellent,1976 directive,actual assessment
+ukd5400-40800,Meols,2022,Excellent,1976 directive,actual assessment
+ukd5400-40900,Moreton,2019,Excellent,1976 directive,actual assessment
+ukd5400-40900,Moreton,2021,Excellent,1976 directive,actual assessment
+ukd5400-40900,Moreton,2022,Excellent,1976 directive,actual assessment
+ukd5400-41000,Wallasey,2019,Good,1976 directive,actual assessment
+ukd5400-41000,Wallasey,2021,Good,1976 directive,actual assessment
+ukd5400-41000,Wallasey,2022,Excellent,1976 directive,actual assessment
+uke1200-07900,Flamborough South Landing,2019,Good,1976 directive,actual assessment
+uke1200-07900,Flamborough South Landing,2021,Excellent,1976 directive,actual assessment
+uke1200-07900,Flamborough South Landing,2022,Excellent,1976 directive,actual assessment
+uke1200-07950,"Danes Dyke, Flamborough",2019,Excellent,1976 directive,actual assessment
+uke1200-07950,"Danes Dyke, Flamborough",2021,Excellent,1976 directive,actual assessment
+uke1200-07950,"Danes Dyke, Flamborough",2022,Excellent,1976 directive,actual assessment
+uke1200-08000,Bridlington North Beach,2019,Good,1976 directive,actual assessment
+uke1200-08000,Bridlington North Beach,2021,Good,1976 directive,actual assessment
+uke1200-08000,Bridlington North Beach,2022,Good,1976 directive,actual assessment
+uke1200-08100,Bridlington South Beach,2019,Sufficient,1976 directive,actual assessment
+uke1200-08100,Bridlington South Beach,2021,Sufficient,1976 directive,actual assessment
+uke1200-08100,Bridlington South Beach,2022,Poor,1976 directive,actual assessment
+uke1200-08200,Wilsthorpe,2019,Good,1976 directive,actual assessment
+uke1200-08200,Wilsthorpe,2021,Good,1976 directive,actual assessment
+uke1200-08200,Wilsthorpe,2022,Good,1976 directive,actual assessment
+uke1200-08300,Fraisthorpe,2019,Good,1976 directive,actual assessment
+uke1200-08300,Fraisthorpe,2021,Good,1976 directive,actual assessment
+uke1200-08300,Fraisthorpe,2022,Good,1976 directive,actual assessment
+uke1200-08600,Skipsea,2019,Good,1976 directive,actual assessment
+uke1200-08600,Skipsea,2021,Good,1976 directive,actual assessment
+uke1200-08600,Skipsea,2022,Excellent,1976 directive,actual assessment
+uke1200-08700,Hornsea,2019,Excellent,1976 directive,actual assessment
+uke1200-08700,Hornsea,2021,Good,1976 directive,actual assessment
+uke1200-08700,Hornsea,2022,Excellent,1976 directive,actual assessment
+uke1200-08800,Tunstall,2019,Closed,1976 directive,actual assessment
+uke1200-08800,Tunstall,2021,Closed,1976 directive,actual assessment
+uke1200-08800,Tunstall,2022,Closed,1976 directive,actual assessment
+uke1200-08900,Withernsea,2019,Good,1976 directive,actual assessment
+uke1200-08900,Withernsea,2021,Good,1976 directive,actual assessment
+uke1200-08900,Withernsea,2022,Excellent,1976 directive,actual assessment
+uke1301-09000,Cleethorpes,2019,Excellent,1976 directive,actual assessment
+uke1301-09000,Cleethorpes,2021,Good,1976 directive,actual assessment
+uke1301-09000,Cleethorpes,2022,Good,1976 directive,actual assessment
+uke1301-09020,Humberston Fitties,2019,Good,1976 directive,actual assessment
+uke1301-09020,Humberston Fitties,2021,Good,1976 directive,actual assessment
+uke1301-09020,Humberston Fitties,2022,Good,1976 directive,actual assessment
+uke2206-06900,Runswick Bay,2019,Excellent,1976 directive,actual assessment
+uke2206-06900,Runswick Bay,2021,Excellent,1976 directive,actual assessment
+uke2206-06900,Runswick Bay,2022,Excellent,1976 directive,actual assessment
+uke2206-07000,Sandsend,2019,Good,1976 directive,actual assessment
+uke2206-07000,Sandsend,2021,Good,1976 directive,actual assessment
+uke2206-07000,Sandsend,2022,Excellent,1976 directive,actual assessment
+uke2206-07100,Whitby,2019,Excellent,1976 directive,actual assessment
+uke2206-07100,Whitby,2021,Excellent,1976 directive,actual assessment
+uke2206-07100,Whitby,2022,Excellent,1976 directive,actual assessment
+uke2206-07200,Robin Hoods Bay,2019,Excellent,1976 directive,actual assessment
+uke2206-07200,Robin Hoods Bay,2021,Good,1976 directive,actual assessment
+uke2206-07200,Robin Hoods Bay,2022,Good,1976 directive,actual assessment
+uke2206-07300,Scarborough North Bay,2019,Excellent,1976 directive,actual assessment
+uke2206-07300,Scarborough North Bay,2021,Excellent,1976 directive,actual assessment
+uke2206-07300,Scarborough North Bay,2022,Excellent,1976 directive,actual assessment
+uke2206-07400,Scarborough South Bay,2019,Poor,1976 directive,actual assessment
+uke2206-07400,Scarborough South Bay,2021,Sufficient,1976 directive,actual assessment
+uke2206-07400,Scarborough South Bay,2022,Poor,1976 directive,actual assessment
+uke2206-07500,Cayton Bay,2019,Excellent,1976 directive,actual assessment
+uke2206-07500,Cayton Bay,2021,Excellent,1976 directive,actual assessment
+uke2206-07500,Cayton Bay,2022,Excellent,1976 directive,actual assessment
+uke2206-07600,Filey,2019,Good,1976 directive,actual assessment
+uke2206-07600,Filey,2021,Good,1976 directive,actual assessment
+uke2206-07600,Filey,2022,Good,1976 directive,actual assessment
+uke2206-07700,Reighton,2019,Excellent,1976 directive,actual assessment
+uke2206-07700,Reighton,2021,Excellent,1976 directive,actual assessment
+uke2206-07700,Reighton,2022,Excellent,1976 directive,actual assessment
+uke4100-08901,"Wharfe at Cromwheel, Ilkley",2021,Poor,1976 directive,actual assessment
+uke4100-08901,"Wharfe at Cromwheel, Ilkley",2022,Poor,1976 directive,actual assessment
+ukf1400-09750,Colwick Country Park (West Lake),2019,Excellent,1976 directive,actual assessment
+ukf1400-09750,Colwick Country Park (West Lake),2021,Excellent,1976 directive,actual assessment
+ukf1400-09750,Colwick Country Park (West Lake),2022,Excellent,1976 directive,actual assessment
+ukf3102-09100,Mablethorpe Town,2019,Excellent,1976 directive,actual assessment
+ukf3102-09100,Mablethorpe Town,2021,Excellent,1976 directive,actual assessment
+ukf3102-09100,Mablethorpe Town,2022,Excellent,1976 directive,actual assessment
+ukf3102-09200,Sutton-on-Sea,2019,Excellent,1976 directive,actual assessment
+ukf3102-09200,Sutton-on-Sea,2021,Excellent,1976 directive,actual assessment
+ukf3102-09200,Sutton-on-Sea,2022,Excellent,1976 directive,actual assessment
+ukf3102-09300,Moggs Eye,2019,Excellent,1976 directive,actual assessment
+ukf3102-09300,Moggs Eye,2021,Excellent,1976 directive,actual assessment
+ukf3102-09300,Moggs Eye,2022,Excellent,1976 directive,actual assessment
+ukf3102-09400,Anderby,2019,Excellent,1976 directive,actual assessment
+ukf3102-09400,Anderby,2021,Excellent,1976 directive,actual assessment
+ukf3102-09400,Anderby,2022,Excellent,1976 directive,actual assessment
+ukf3102-09500,Chapel St Leonards,2019,Excellent,1976 directive,actual assessment
+ukf3102-09500,Chapel St Leonards,2021,Excellent,1976 directive,actual assessment
+ukf3102-09500,Chapel St Leonards,2022,Excellent,1976 directive,actual assessment
+ukf3102-09600,Ingoldmells South,2019,Excellent,1976 directive,actual assessment
+ukf3102-09600,Ingoldmells South,2021,Excellent,1976 directive,actual assessment
+ukf3102-09600,Ingoldmells South,2022,Excellent,1976 directive,actual assessment
+ukf3102-09700,Skegness,2019,Excellent,1976 directive,actual assessment
+ukf3102-09700,Skegness,2021,Excellent,1976 directive,actual assessment
+ukf3102-09700,Skegness,2022,Excellent,1976 directive,actual assessment
+ukh1303-10325,Hemsby,2019,Excellent,1976 directive,actual assessment
+ukh1303-10325,Hemsby,2021,Excellent,1976 directive,actual assessment
+ukh1303-10325,Hemsby,2022,Good,1976 directive,actual assessment
+ukh1303-10350,Caister Point,2019,Excellent,1976 directive,actual assessment
+ukh1303-10350,Caister Point,2021,Excellent,1976 directive,actual assessment
+ukh1303-10350,Caister Point,2022,Excellent,1976 directive,actual assessment
+ukh1303-10400,Great Yarmouth North,2019,Excellent,1976 directive,actual assessment
+ukh1303-10400,Great Yarmouth North,2021,Excellent,1976 directive,actual assessment
+ukh1303-10400,Great Yarmouth North,2022,Excellent,1976 directive,actual assessment
+ukh1303-10500,Great Yarmouth Pier,2019,Excellent,1976 directive,actual assessment
+ukh1303-10500,Great Yarmouth Pier,2021,Excellent,1976 directive,actual assessment
+ukh1303-10500,Great Yarmouth Pier,2022,Excellent,1976 directive,actual assessment
+ukh1303-10600,Great Yarmouth South,2019,Excellent,1976 directive,actual assessment
+ukh1303-10600,Great Yarmouth South,2021,Excellent,1976 directive,actual assessment
+ukh1303-10600,Great Yarmouth South,2022,Excellent,1976 directive,actual assessment
+ukh1303-10650,Gorleston Beach,2019,Excellent,1976 directive,actual assessment
+ukh1303-10650,Gorleston Beach,2021,Excellent,1976 directive,actual assessment
+ukh1303-10650,Gorleston Beach,2022,Excellent,1976 directive,actual assessment
+ukh1304-09800,Heacham,2019,Sufficient,1976 directive,actual assessment
+ukh1304-09800,Heacham,2021,Poor,1976 directive,actual assessment
+ukh1304-09800,Heacham,2022,Poor,1976 directive,actual assessment
+ukh1304-09850,Hunstanton Main Beach,2019,Sufficient,1976 directive,actual assessment
+ukh1304-09850,Hunstanton Main Beach,2021,Sufficient,1976 directive,actual assessment
+ukh1304-09850,Hunstanton Main Beach,2022,Sufficient,1976 directive,actual assessment
+ukh1304-09900,Hunstanton (Old Hunstanton),2019,Good,1976 directive,actual assessment
+ukh1304-09900,Hunstanton (Old Hunstanton),2021,Good,1976 directive,actual assessment
+ukh1304-09900,Hunstanton (Old Hunstanton),2022,Sufficient,1976 directive,actual assessment
+ukh1305-10000,Wells,2019,Sufficient,1976 directive,actual assessment
+ukh1305-10000,Wells,2021,Sufficient,1976 directive,actual assessment
+ukh1305-10000,Wells,2022,Good,1976 directive,actual assessment
+ukh1305-10100,Sheringham,2019,Excellent,1976 directive,actual assessment
+ukh1305-10100,Sheringham,2021,Excellent,1976 directive,actual assessment
+ukh1305-10100,Sheringham,2022,Excellent,1976 directive,actual assessment
+ukh1305-10125,West Runton,2019,Excellent,1976 directive,actual assessment
+ukh1305-10125,West Runton,2021,Excellent,1976 directive,actual assessment
+ukh1305-10125,West Runton,2022,Excellent,1976 directive,actual assessment
+ukh1305-10150,East Runton,2019,Excellent,1976 directive,actual assessment
+ukh1305-10150,East Runton,2021,Excellent,1976 directive,actual assessment
+ukh1305-10150,East Runton,2022,Good,1976 directive,actual assessment
+ukh1305-10200,Cromer,2019,Excellent,1976 directive,actual assessment
+ukh1305-10200,Cromer,2021,Excellent,1976 directive,actual assessment
+ukh1305-10200,Cromer,2022,Excellent,1976 directive,actual assessment
+ukh1305-10300,Mundesley,2019,Excellent,1976 directive,actual assessment
+ukh1305-10300,Mundesley,2021,Excellent,1976 directive,actual assessment
+ukh1305-10300,Mundesley,2022,Good,1976 directive,actual assessment
+ukh1305-10310,Sea Palling,2019,Excellent,1976 directive,actual assessment
+ukh1305-10310,Sea Palling,2021,Excellent,1976 directive,actual assessment
+ukh1305-10310,Sea Palling,2022,Good,1976 directive,actual assessment
+ukh1406-10900,Felixstowe North,2019,Excellent,1976 directive,actual assessment
+ukh1406-10900,Felixstowe North,2021,Excellent,1976 directive,actual assessment
+ukh1406-10900,Felixstowe North,2022,Excellent,1976 directive,actual assessment
+ukh1406-11000,Felixstowe South,2019,Excellent,1976 directive,actual assessment
+ukh1406-11000,Felixstowe South,2021,Excellent,1976 directive,actual assessment
+ukh1406-11000,Felixstowe South,2022,Excellent,1976 directive,actual assessment
+ukh1407-10750,Lowestoft (North of Claremont Pier),2019,Good,1976 directive,actual assessment
+ukh1407-10750,Lowestoft (North of Claremont Pier),2021,Excellent,1976 directive,actual assessment
+ukh1407-10750,Lowestoft (North of Claremont Pier),2022,Excellent,1976 directive,actual assessment
+ukh1407-10800,Lowestoft (South of Claremont Pier),2019,Good,1976 directive,actual assessment
+ukh1407-10800,Lowestoft (South of Claremont Pier),2021,Good,1976 directive,actual assessment
+ukh1407-10800,Lowestoft (South of Claremont Pier),2022,Good,1976 directive,actual assessment
+ukh1407-10830,Southwold The Pier,2019,Good,1976 directive,actual assessment
+ukh1407-10830,Southwold The Pier,2021,Excellent,1976 directive,actual assessment
+ukh1407-10830,Southwold The Pier,2022,Excellent,1976 directive,actual assessment
+ukh1407-10850,Southwold The Denes,2019,Sufficient,1976 directive,actual assessment
+ukh1407-10850,Southwold The Denes,2021,Good,1976 directive,actual assessment
+ukh1407-10850,Southwold The Denes,2022,Excellent,1976 directive,actual assessment
+ukh3100-11770,Shoebury East,2019,Excellent,1976 directive,actual assessment
+ukh3100-11770,Shoebury East,2021,Excellent,1976 directive,actual assessment
+ukh3100-11770,Shoebury East,2022,Excellent,1976 directive,actual assessment
+ukh3100-11780,Shoeburyness,2019,Excellent,1976 directive,actual assessment
+ukh3100-11780,Shoeburyness,2021,Excellent,1976 directive,actual assessment
+ukh3100-11780,Shoeburyness,2022,Excellent,1976 directive,actual assessment
+ukh3100-11800,Southend Thorpe Bay,2019,Excellent,1976 directive,actual assessment
+ukh3100-11800,Southend Thorpe Bay,2021,Excellent,1976 directive,actual assessment
+ukh3100-11800,Southend Thorpe Bay,2022,Excellent,1976 directive,actual assessment
+ukh3100-11830,Southend Jubilee,2019,Good,1976 directive,actual assessment
+ukh3100-11830,Southend Jubilee,2021,Good,1976 directive,actual assessment
+ukh3100-11830,Southend Jubilee,2022,Good,1976 directive,actual assessment
+ukh3100-11850,Southend Three Shells,2019,Excellent,1976 directive,actual assessment
+ukh3100-11850,Southend Three Shells,2021,Excellent,1976 directive,actual assessment
+ukh3100-11850,Southend Three Shells,2022,Excellent,1976 directive,actual assessment
+ukh3100-11900,Southend Westcliff Bay,2019,Excellent,1976 directive,actual assessment
+ukh3100-11900,Southend Westcliff Bay,2021,Excellent,1976 directive,actual assessment
+ukh3100-11900,Southend Westcliff Bay,2022,Excellent,1976 directive,actual assessment
+ukh3100-11902,Southend Chalkwell,2019,Good,1976 directive,actual assessment
+ukh3100-11902,Southend Chalkwell,2021,Good,1976 directive,actual assessment
+ukh3100-11902,Southend Chalkwell,2022,Good,1976 directive,actual assessment
+ukh3100-11904,Leigh Bell Wharf,2019,Sufficient,1976 directive,actual assessment
+ukh3100-11904,Leigh Bell Wharf,2021,Good,1976 directive,actual assessment
+ukh3100-11904,Leigh Bell Wharf,2022,Good,1976 directive,actual assessment
+ukh3306-11750,West Mersea,2019,Good,1976 directive,actual assessment
+ukh3306-11750,West Mersea,2021,Good,1976 directive,actual assessment
+ukh3306-11750,West Mersea,2022,Excellent,1976 directive,actual assessment
+ukh3311-11100,Dovercourt,2019,Excellent,1976 directive,actual assessment
+ukh3311-11100,Dovercourt,2021,Excellent,1976 directive,actual assessment
+ukh3311-11100,Dovercourt,2022,Excellent,1976 directive,actual assessment
+ukh3311-11250,Walton,2019,Excellent,1976 directive,actual assessment
+ukh3311-11250,Walton,2021,Good,1976 directive,actual assessment
+ukh3311-11250,Walton,2022,Excellent,1976 directive,actual assessment
+ukh3311-11300,Frinton,2019,Good,1976 directive,actual assessment
+ukh3311-11300,Frinton,2021,Good,1976 directive,actual assessment
+ukh3311-11300,Frinton,2022,Excellent,1976 directive,actual assessment
+ukh3311-11350,Holland,2019,Excellent,1976 directive,actual assessment
+ukh3311-11350,Holland,2021,Excellent,1976 directive,actual assessment
+ukh3311-11350,Holland,2022,Excellent,1976 directive,actual assessment
+ukh3311-11500,Clacton,2019,Excellent,1976 directive,actual assessment
+ukh3311-11500,Clacton,2021,Excellent,1976 directive,actual assessment
+ukh3311-11500,Clacton,2022,Excellent,1976 directive,actual assessment
+ukh3311-11550,Clacton (Groyne 41),2019,Poor,1976 directive,actual assessment
+ukh3311-11600,Jaywick,2019,Good,1976 directive,actual assessment
+ukh3311-11600,Jaywick,2021,Good,1976 directive,actual assessment
+ukh3311-11600,Jaywick,2022,Good,1976 directive,actual assessment
+ukh3311-11650,Clacton Beach Martello Tower,2019,Good,1976 directive,actual assessment
+ukh3311-11650,Clacton Beach Martello Tower,2021,Good,1976 directive,actual assessment
+ukh3311-11650,Clacton Beach Martello Tower,2022,Good,1976 directive,actual assessment
+ukh3311-11700,Brightlingsea,2019,Excellent,1976 directive,actual assessment
+ukh3311-11700,Brightlingsea,2021,Excellent,1976 directive,actual assessment
+ukh3311-11700,Brightlingsea,2022,Excellent,1976 directive,actual assessment
+uki1101-11910,Hampstead Heath (Ladies Pond),2019,Excellent,1976 directive,actual assessment
+uki1101-11910,Hampstead Heath (Ladies Pond),2021,Good,1976 directive,actual assessment
+uki1101-11910,Hampstead Heath (Ladies Pond),2022,Good,1976 directive,actual assessment
+uki1101-11920,Hampstead Heath (Mens Pond),2019,Excellent,1976 directive,actual assessment
+uki1101-11920,Hampstead Heath (Mens Pond),2021,Excellent,1976 directive,actual assessment
+uki1101-11920,Hampstead Heath (Mens Pond),2022,Excellent,1976 directive,actual assessment
+uki1101-11930,Hampstead Heath (Mixed Pond),2019,Good,1976 directive,actual assessment
+uki1101-11930,Hampstead Heath (Mixed Pond),2021,Good,1976 directive,actual assessment
+uki1101-11930,Hampstead Heath (Mixed Pond),2022,Excellent,1976 directive,actual assessment
+uki1106-11940,The Serpentine - Hyde Park,2019,Sufficient,1976 directive,actual assessment
+uki1106-11940,The Serpentine - Hyde Park,2021,Sufficient,1976 directive,actual assessment
+uki1106-11940,The Serpentine - Hyde Park,2022,Sufficient,1976 directive,actual assessment
+ukj1402-11946,Wolvercote Mill Stream,2022,Poor,1976 directive,actual assessment
+ukj2100-14800,Saltdean,2019,Excellent,1976 directive,actual assessment
+ukj2100-14800,Saltdean,2021,Excellent,1976 directive,actual assessment
+ukj2100-14800,Saltdean,2022,Excellent,1976 directive,actual assessment
+ukj2100-14900,Brighton Kemptown,2019,Excellent,1976 directive,actual assessment
+ukj2100-14900,Brighton Kemptown,2021,Excellent,1976 directive,actual assessment
+ukj2100-14900,Brighton Kemptown,2022,Excellent,1976 directive,actual assessment
+ukj2100-14950,Brighton Central,2019,Excellent,1976 directive,actual assessment
+ukj2100-14950,Brighton Central,2021,Excellent,1976 directive,actual assessment
+ukj2100-14950,Brighton Central,2022,Good,1976 directive,actual assessment
+ukj2100-15000,Hove,2019,Excellent,1976 directive,actual assessment
+ukj2100-15000,Hove,2021,Excellent,1976 directive,actual assessment
+ukj2100-15000,Hove,2022,Excellent,1976 directive,actual assessment
+ukj2201-14400,Pevensey Bay,2019,Good,1976 directive,actual assessment
+ukj2201-14400,Pevensey Bay,2021,Good,1976 directive,actual assessment
+ukj2201-14400,Pevensey Bay,2022,Good,1976 directive,actual assessment
+ukj2201-14500,Eastbourne,2019,Good,1976 directive,actual assessment
+ukj2201-14500,Eastbourne,2021,Good,1976 directive,actual assessment
+ukj2201-14500,Eastbourne,2022,Sufficient,1976 directive,actual assessment
+ukj2201-14550,Birling Gap,2019,Excellent,1976 directive,actual assessment
+ukj2201-14550,Birling Gap,2021,Excellent,1976 directive,actual assessment
+ukj2201-14550,Birling Gap,2022,Excellent,1976 directive,actual assessment
+ukj2202-14100,Hastings Pelham Beach,2019,Sufficient,1976 directive,actual assessment
+ukj2202-14100,Hastings Pelham Beach,2021,Good,1976 directive,actual assessment
+ukj2202-14100,Hastings Pelham Beach,2022,Good,1976 directive,actual assessment
+ukj2202-14150,St Leonards,2019,Excellent,1976 directive,actual assessment
+ukj2202-14150,St Leonards,2021,Excellent,1976 directive,actual assessment
+ukj2202-14150,St Leonards,2022,Excellent,1976 directive,actual assessment
+ukj2203-14600,Seaford,2019,Excellent,1976 directive,actual assessment
+ukj2203-14600,Seaford,2021,Excellent,1976 directive,actual assessment
+ukj2203-14600,Seaford,2022,Excellent,1976 directive,actual assessment
+ukj2204-13900,Camber,2019,Excellent,1976 directive,actual assessment
+ukj2204-13900,Camber,2021,Good,1976 directive,actual assessment
+ukj2204-13900,Camber,2022,Good,1976 directive,actual assessment
+ukj2204-14000,Winchelsea,2019,Excellent,1976 directive,actual assessment
+ukj2204-14000,Winchelsea,2021,Excellent,1976 directive,actual assessment
+ukj2204-14000,Winchelsea,2022,Excellent,1976 directive,actual assessment
+ukj2205-14200,Bexhill,2019,Sufficient,1976 directive,actual assessment
+ukj2205-14200,Bexhill,2021,Sufficient,1976 directive,actual assessment
+ukj2205-14200,Bexhill,2022,Sufficient,1976 directive,actual assessment
+ukj2205-14300,Norman`s Bay,2019,Good,1976 directive,actual assessment
+ukj2205-14300,Norman`s Bay,2021,Good,1976 directive,actual assessment
+ukj2205-14300,Norman`s Bay,2022,Good,1976 directive,actual assessment
+ukj2310-11945,Frensham Great Pond,2019,Excellent,1976 directive,actual assessment
+ukj2310-11945,Frensham Great Pond,2021,Excellent,1976 directive,actual assessment
+ukj2310-11945,Frensham Great Pond,2022,Excellent,1976 directive,actual assessment
+ukj2401-15100,Southwick,2019,Excellent,1976 directive,actual assessment
+ukj2401-15100,Southwick,2021,Excellent,1976 directive,actual assessment
+ukj2401-15100,Southwick,2022,Excellent,1976 directive,actual assessment
+ukj2401-15200,Shoreham Beach,2019,Excellent,1976 directive,actual assessment
+ukj2401-15200,Shoreham Beach,2021,Excellent,1976 directive,actual assessment
+ukj2401-15200,Shoreham Beach,2022,Excellent,1976 directive,actual assessment
+ukj2401-15300,"Lancing, Beach Green",2019,Good,1976 directive,actual assessment
+ukj2401-15300,"Lancing, Beach Green",2021,Good,1976 directive,actual assessment
+ukj2401-15300,"Lancing, Beach Green",2022,Excellent,1976 directive,actual assessment
+ukj2402-15500,Littlehampton,2019,Good,1976 directive,actual assessment
+ukj2402-15500,Littlehampton,2021,Good,1976 directive,actual assessment
+ukj2402-15500,Littlehampton,2022,Good,1976 directive,actual assessment
+ukj2402-15600,Middleton-on-sea,2019,Excellent,1976 directive,actual assessment
+ukj2402-15600,Middleton-on-sea,2021,Excellent,1976 directive,actual assessment
+ukj2402-15600,Middleton-on-sea,2022,Excellent,1976 directive,actual assessment
+ukj2402-15650,Felpham,2019,Good,1976 directive,actual assessment
+ukj2402-15650,Felpham,2021,Good,1976 directive,actual assessment
+ukj2402-15650,Felpham,2022,Good,1976 directive,actual assessment
+ukj2402-15680,Bognor Regis East,2019,Good,1976 directive,actual assessment
+ukj2402-15680,Bognor Regis East,2021,Excellent,1976 directive,actual assessment
+ukj2402-15680,Bognor Regis East,2022,Good,1976 directive,actual assessment
+ukj2402-15700,Bognor Regis (Aldwick),2019,Good,1976 directive,actual assessment
+ukj2402-15700,Bognor Regis (Aldwick),2021,Good,1976 directive,actual assessment
+ukj2402-15700,Bognor Regis (Aldwick),2022,Poor,1976 directive,actual assessment
+ukj2402-15800,Pagham,2019,Excellent,1976 directive,actual assessment
+ukj2402-15800,Pagham,2021,Excellent,1976 directive,actual assessment
+ukj2402-15800,Pagham,2022,Excellent,1976 directive,actual assessment
+ukj2403-15900,Selsey,2019,Excellent,1976 directive,actual assessment
+ukj2403-15900,Selsey,2021,Excellent,1976 directive,actual assessment
+ukj2403-15900,Selsey,2022,Excellent,1976 directive,actual assessment
+ukj2403-16000,Bracklesham Bay,2019,Excellent,1976 directive,actual assessment
+ukj2403-16000,Bracklesham Bay,2021,Excellent,1976 directive,actual assessment
+ukj2403-16000,Bracklesham Bay,2022,Excellent,1976 directive,actual assessment
+ukj2403-16100,West Wittering,2019,Excellent,1976 directive,actual assessment
+ukj2403-16100,West Wittering,2021,Excellent,1976 directive,actual assessment
+ukj2403-16100,West Wittering,2022,Excellent,1976 directive,actual assessment
+ukj2407-15400,Worthing,2019,Sufficient,1976 directive,actual assessment
+ukj2407-15400,Worthing,2021,Good,1976 directive,actual assessment
+ukj2407-15400,Worthing,2022,Good,1976 directive,actual assessment
+ukj3100-16500,Eastney,2019,Excellent,1976 directive,actual assessment
+ukj3100-16500,Eastney,2021,Excellent,1976 directive,actual assessment
+ukj3100-16500,Eastney,2022,Excellent,1976 directive,actual assessment
+ukj3100-16600,Southsea East,2019,Excellent,1976 directive,actual assessment
+ukj3100-16600,Southsea East,2021,Good,1976 directive,actual assessment
+ukj3100-16600,Southsea East,2022,Sufficient,1976 directive,actual assessment
+ukj3304-16850,Hillhead,2019,Good,1976 directive,actual assessment
+ukj3304-16850,Hillhead,2021,Good,1976 directive,actual assessment
+ukj3304-16850,Hillhead,2022,Excellent,1976 directive,actual assessment
+ukj3305-16700,Stokes Bay,2019,Excellent,1976 directive,actual assessment
+ukj3305-16700,Stokes Bay,2021,Excellent,1976 directive,actual assessment
+ukj3305-16700,Stokes Bay,2022,Excellent,1976 directive,actual assessment
+ukj3305-16800,Lee-on-Solent,2019,Excellent,1976 directive,actual assessment
+ukj3305-16800,Lee-on-Solent,2021,Excellent,1976 directive,actual assessment
+ukj3305-16800,Lee-on-Solent,2022,Excellent,1976 directive,actual assessment
+ukj3307-16300,Eastoke,2019,Excellent,1976 directive,actual assessment
+ukj3307-16300,Eastoke,2021,Excellent,1976 directive,actual assessment
+ukj3307-16300,Eastoke,2022,Excellent,1976 directive,actual assessment
+ukj3307-16350,Beachlands Central,2019,Excellent,1976 directive,actual assessment
+ukj3307-16350,Beachlands Central,2021,Excellent,1976 directive,actual assessment
+ukj3307-16350,Beachlands Central,2022,Excellent,1976 directive,actual assessment
+ukj3307-16400,Beachlands West,2019,Excellent,1976 directive,actual assessment
+ukj3307-16400,Beachlands West,2021,Excellent,1976 directive,actual assessment
+ukj3307-16400,Beachlands West,2022,Excellent,1976 directive,actual assessment
+ukj3308-16900,Calshot,2019,Excellent,1976 directive,actual assessment
+ukj3308-16900,Calshot,2021,Excellent,1976 directive,actual assessment
+ukj3308-16900,Calshot,2022,Excellent,1976 directive,actual assessment
+ukj3308-17000,Lepe,2019,Excellent,1976 directive,actual assessment
+ukj3308-17000,Lepe,2021,Excellent,1976 directive,actual assessment
+ukj3308-17000,Lepe,2022,Excellent,1976 directive,actual assessment
+ukj3308-17100,Milford-on-sea,2019,Excellent,1976 directive,actual assessment
+ukj3308-17100,Milford-on-sea,2021,Excellent,1976 directive,actual assessment
+ukj3308-17100,Milford-on-sea,2022,Excellent,1976 directive,actual assessment
+ukj3400-17400,Compton Bay,2019,Excellent,1976 directive,actual assessment
+ukj3400-17400,Compton Bay,2021,Excellent,1976 directive,actual assessment
+ukj3400-17400,Compton Bay,2022,Excellent,1976 directive,actual assessment
+ukj3400-17500,Totland Bay,2019,Excellent,1976 directive,actual assessment
+ukj3400-17500,Totland Bay,2021,Excellent,1976 directive,actual assessment
+ukj3400-17500,Totland Bay,2022,Excellent,1976 directive,actual assessment
+ukj3400-17600,Colwell Bay,2019,Excellent,1976 directive,actual assessment
+ukj3400-17600,Colwell Bay,2021,Excellent,1976 directive,actual assessment
+ukj3400-17600,Colwell Bay,2022,Excellent,1976 directive,actual assessment
+ukj3400-17700,Gurnard,2019,Excellent,1976 directive,actual assessment
+ukj3400-17700,Gurnard,2021,Good,1976 directive,actual assessment
+ukj3400-17700,Gurnard,2022,Good,1976 directive,actual assessment
+ukj3400-17800,Cowes,2019,Good,1976 directive,actual assessment
+ukj3400-17800,Cowes,2021,Excellent,1976 directive,actual assessment
+ukj3400-17800,Cowes,2022,Excellent,1976 directive,actual assessment
+ukj3400-17850,East Cowes,2022,Excellent,1976 directive,actual assessment
+ukj3400-17900,Ryde,2019,Good,1976 directive,actual assessment
+ukj3400-17900,Ryde,2021,Excellent,1976 directive,actual assessment
+ukj3400-17900,Ryde,2022,Good,1976 directive,actual assessment
+ukj3400-18000,Seagrove,2019,Excellent,1976 directive,actual assessment
+ukj3400-18000,Seagrove,2021,Excellent,1976 directive,actual assessment
+ukj3400-18000,Seagrove,2022,Excellent,1976 directive,actual assessment
+ukj3400-18100,St Helens,2019,Excellent,1976 directive,actual assessment
+ukj3400-18100,St Helens,2021,Excellent,1976 directive,actual assessment
+ukj3400-18100,St Helens,2022,Excellent,1976 directive,actual assessment
+ukj3400-18200,Bembridge,2019,Excellent,1976 directive,actual assessment
+ukj3400-18200,Bembridge,2021,Excellent,1976 directive,actual assessment
+ukj3400-18200,Bembridge,2022,Excellent,1976 directive,actual assessment
+ukj3400-18300,Whitecliff Bay,2019,Excellent,1976 directive,actual assessment
+ukj3400-18300,Whitecliff Bay,2021,Excellent,1976 directive,actual assessment
+ukj3400-18300,Whitecliff Bay,2022,Excellent,1976 directive,actual assessment
+ukj3400-18350,Yaverland,2019,Excellent,1976 directive,actual assessment
+ukj3400-18350,Yaverland,2021,Excellent,1976 directive,actual assessment
+ukj3400-18350,Yaverland,2022,Excellent,1976 directive,actual assessment
+ukj3400-18400,Sandown,2019,Excellent,1976 directive,actual assessment
+ukj3400-18400,Sandown,2021,Excellent,1976 directive,actual assessment
+ukj3400-18400,Sandown,2022,Excellent,1976 directive,actual assessment
+ukj3400-18500,Shanklin,2019,Excellent,1976 directive,actual assessment
+ukj3400-18500,Shanklin,2021,Excellent,1976 directive,actual assessment
+ukj3400-18500,Shanklin,2022,Excellent,1976 directive,actual assessment
+ukj3400-18600,Ventnor,2019,Excellent,1976 directive,actual assessment
+ukj3400-18600,Ventnor,2021,Excellent,1976 directive,actual assessment
+ukj3400-18600,Ventnor,2022,Excellent,1976 directive,actual assessment
+ukj4202-12100,"West Beach, Whitstable",2019,Good,1976 directive,actual assessment
+ukj4202-12100,"West Beach, Whitstable",2021,Good,1976 directive,actual assessment
+ukj4202-12100,"West Beach, Whitstable",2022,Excellent,1976 directive,actual assessment
+ukj4202-12120,Tankerton,2019,Excellent,1976 directive,actual assessment
+ukj4202-12120,Tankerton,2021,Excellent,1976 directive,actual assessment
+ukj4202-12120,Tankerton,2022,Excellent,1976 directive,actual assessment
+ukj4202-12150,Herne Bay Central,2019,Good,1976 directive,actual assessment
+ukj4202-12150,Herne Bay Central,2021,Good,1976 directive,actual assessment
+ukj4202-12150,Herne Bay Central,2022,Good,1976 directive,actual assessment
+ukj4202-12200,Herne Bay,2019,Excellent,1976 directive,actual assessment
+ukj4202-12200,Herne Bay,2021,Excellent,1976 directive,actual assessment
+ukj4202-12200,Herne Bay,2022,Excellent,1976 directive,actual assessment
+ukj4204-13000,Sandwich Bay,2019,Excellent,1976 directive,actual assessment
+ukj4204-13000,Sandwich Bay,2021,Excellent,1976 directive,actual assessment
+ukj4204-13000,Sandwich Bay,2022,Excellent,1976 directive,actual assessment
+ukj4204-13100,Deal Castle,2019,Excellent,1976 directive,actual assessment
+ukj4204-13100,Deal Castle,2021,Good,1976 directive,actual assessment
+ukj4204-13100,Deal Castle,2022,Good,1976 directive,actual assessment
+ukj4204-13200,St Margaret`s Bay,2019,Excellent,1976 directive,actual assessment
+ukj4204-13200,St Margaret`s Bay,2021,Excellent,1976 directive,actual assessment
+ukj4204-13200,St Margaret`s Bay,2022,Excellent,1976 directive,actual assessment
+ukj4208-13300,Folkestone,2019,Excellent,1976 directive,actual assessment
+ukj4208-13300,Folkestone,2021,Excellent,1976 directive,actual assessment
+ukj4208-13300,Folkestone,2022,Good,1976 directive,actual assessment
+ukj4208-13400,Sandgate,2019,Excellent,1976 directive,actual assessment
+ukj4208-13400,Sandgate,2021,Excellent,1976 directive,actual assessment
+ukj4208-13400,Sandgate,2022,Excellent,1976 directive,actual assessment
+ukj4208-13500,Hythe,2019,Excellent,1976 directive,actual assessment
+ukj4208-13500,Hythe,2021,Excellent,1976 directive,actual assessment
+ukj4208-13500,Hythe,2022,Excellent,1976 directive,actual assessment
+ukj4208-13600,Dymchurch,2019,Good,1976 directive,actual assessment
+ukj4208-13600,Dymchurch,2021,Good,1976 directive,actual assessment
+ukj4208-13600,Dymchurch,2022,Good,1976 directive,actual assessment
+ukj4208-13700,St Mary's Bay (Kent),2019,Sufficient,1976 directive,actual assessment
+ukj4208-13700,St Mary's Bay (Kent),2021,Sufficient,1976 directive,actual assessment
+ukj4208-13700,St Mary's Bay (Kent),2022,Poor,1976 directive,actual assessment
+ukj4208-13800,Littlestone,2019,Good,1976 directive,actual assessment
+ukj4208-13800,Littlestone,2021,Good,1976 directive,actual assessment
+ukj4208-13800,Littlestone,2022,Good,1976 directive,actual assessment
+ukj4209-11950,Sheerness,2019,Excellent,1976 directive,actual assessment
+ukj4209-11950,Sheerness,2021,Excellent,1976 directive,actual assessment
+ukj4209-11950,Sheerness,2022,Excellent,1976 directive,actual assessment
+ukj4209-11975,Minster Leas,2019,Excellent,1976 directive,actual assessment
+ukj4209-11975,Minster Leas,2021,Excellent,1976 directive,actual assessment
+ukj4209-11975,Minster Leas,2022,Excellent,1976 directive,actual assessment
+ukj4209-12000,Leysdown,2019,Excellent,1976 directive,actual assessment
+ukj4209-12000,Leysdown,2021,Excellent,1976 directive,actual assessment
+ukj4209-12000,Leysdown,2022,Good,1976 directive,actual assessment
+ukj4210-12300,"Minnis Bay, Birchington",2019,Excellent,1976 directive,actual assessment
+ukj4210-12300,"Minnis Bay, Birchington",2021,Excellent,1976 directive,actual assessment
+ukj4210-12300,"Minnis Bay, Birchington",2022,Excellent,1976 directive,actual assessment
+ukj4210-12350,"West Bay, Westgate",2019,Excellent,1976 directive,actual assessment
+ukj4210-12350,"West Bay, Westgate",2021,Excellent,1976 directive,actual assessment
+ukj4210-12350,"West Bay, Westgate",2022,Good,1976 directive,actual assessment
+ukj4210-12400,"St Mildred's Bay, Westgate",2019,Excellent,1976 directive,actual assessment
+ukj4210-12400,"St Mildred's Bay, Westgate",2021,Excellent,1976 directive,actual assessment
+ukj4210-12400,"St Mildred's Bay, Westgate",2022,Excellent,1976 directive,actual assessment
+ukj4210-12450,"Westbrook Bay, Margate",2019,Excellent,1976 directive,actual assessment
+ukj4210-12450,"Westbrook Bay, Margate",2021,Excellent,1976 directive,actual assessment
+ukj4210-12450,"Westbrook Bay, Margate",2022,Excellent,1976 directive,actual assessment
+ukj4210-12500,Margate The Bay,2019,Excellent,1976 directive,actual assessment
+ukj4210-12500,Margate The Bay,2021,Excellent,1976 directive,actual assessment
+ukj4210-12500,Margate The Bay,2022,Excellent,1976 directive,actual assessment
+ukj4210-12600,Margate Fulsam Rock,2019,Excellent,1976 directive,actual assessment
+ukj4210-12600,Margate Fulsam Rock,2021,Excellent,1976 directive,actual assessment
+ukj4210-12600,Margate Fulsam Rock,2022,Excellent,1976 directive,actual assessment
+ukj4210-12630,"Walpole Bay, Margate",2019,Good,1976 directive,actual assessment
+ukj4210-12630,"Walpole Bay, Margate",2021,Excellent,1976 directive,actual assessment
+ukj4210-12630,"Walpole Bay, Margate",2022,Good,1976 directive,actual assessment
+ukj4210-12660,"Botany Bay, Broadstairs",2019,Good,1976 directive,actual assessment
+ukj4210-12660,"Botany Bay, Broadstairs",2021,Excellent,1976 directive,actual assessment
+ukj4210-12660,"Botany Bay, Broadstairs",2022,Excellent,1976 directive,actual assessment
+ukj4210-12700,"Joss Bay, Broadstairs",2019,Good,1976 directive,actual assessment
+ukj4210-12700,"Joss Bay, Broadstairs",2021,Excellent,1976 directive,actual assessment
+ukj4210-12700,"Joss Bay, Broadstairs",2022,Excellent,1976 directive,actual assessment
+ukj4210-12750,"Broadstairs, Stone Bay",2019,Excellent,1976 directive,actual assessment
+ukj4210-12750,"Broadstairs, Stone Bay",2021,Excellent,1976 directive,actual assessment
+ukj4210-12750,"Broadstairs, Stone Bay",2022,Excellent,1976 directive,actual assessment
+ukj4210-12800,"Broadstairs, Viking Bay",2019,Good,1976 directive,actual assessment
+ukj4210-12800,"Broadstairs, Viking Bay",2021,Sufficient,1976 directive,actual assessment
+ukj4210-12800,"Broadstairs, Viking Bay",2022,Good,1976 directive,actual assessment
+ukj4210-12850,Ramsgate Sands,2019,Good,1976 directive,actual assessment
+ukj4210-12850,Ramsgate Sands,2021,Good,1976 directive,actual assessment
+ukj4210-12850,Ramsgate Sands,2022,Good,1976 directive,actual assessment
+ukj4210-12900,Ramsgate Western Undercliffe,2019,Good,1976 directive,actual assessment
+ukj4210-12900,Ramsgate Western Undercliffe,2021,Good,1976 directive,actual assessment
+ukj4210-12900,Ramsgate Western Undercliffe,2022,Good,1976 directive,actual assessment
+ukk1100-36050,Henleaze Lake,2019,Good,1976 directive,actual assessment
+ukk1100-36050,Henleaze Lake,2021,Good,1976 directive,actual assessment
+ukk1100-36050,Henleaze Lake,2022,Good,1976 directive,actual assessment
+ukk1202-35700,Weston-super-Mare Uphill Slipway,2019,Poor,1976 directive,actual assessment
+ukk1202-35700,Weston-super-Mare Uphill Slipway,2021,Sufficient,1976 directive,actual assessment
+ukk1202-35700,Weston-super-Mare Uphill Slipway,2022,Sufficient,1976 directive,actual assessment
+ukk1202-35800,Weston Main,2019,Sufficient,1976 directive,actual assessment
+ukk1202-35800,Weston Main,2021,Poor,1976 directive,actual assessment
+ukk1202-35800,Weston Main,2022,Poor,1976 directive,actual assessment
+ukk1202-35900,Weston-super-Mare Sand Bay,2019,Sufficient,1976 directive,actual assessment
+ukk1202-35900,Weston-super-Mare Sand Bay,2021,Sufficient,1976 directive,actual assessment
+ukk1202-35900,Weston-super-Mare Sand Bay,2022,Poor,1976 directive,actual assessment
+ukk1202-36000,Clevedon Beach,2019,Good,1976 directive,actual assessment
+ukk1202-36000,Clevedon Beach,2021,Good,1976 directive,actual assessment
+ukk1202-36000,Clevedon Beach,2022,Good,1976 directive,actual assessment
+ukk1302-11760,Cotswold Country Park and Beach,2019,Excellent,1976 directive,actual assessment
+ukk1302-11760,Cotswold Country Park and Beach,2021,Excellent,1976 directive,actual assessment
+ukk1302-11760,Cotswold Country Park and Beach,2022,Excellent,1976 directive,actual assessment
+ukk2101-19000,Bournemouth Hengistbury West,2019,Excellent,1976 directive,actual assessment
+ukk2101-19000,Bournemouth Hengistbury West,2021,Excellent,1976 directive,actual assessment
+ukk2101-19000,Bournemouth Hengistbury West,2022,Excellent,1976 directive,actual assessment
+ukk2101-19020,Bournemouth Southbourne,2019,Excellent,1976 directive,actual assessment
+ukk2101-19020,Bournemouth Southbourne,2021,Excellent,1976 directive,actual assessment
+ukk2101-19020,Bournemouth Southbourne,2022,Excellent,1976 directive,actual assessment
+ukk2101-19030,Bournemouth Fisherman`s Walk,2019,Excellent,1976 directive,actual assessment
+ukk2101-19030,Bournemouth Fisherman`s Walk,2021,Excellent,1976 directive,actual assessment
+ukk2101-19030,Bournemouth Fisherman`s Walk,2022,Excellent,1976 directive,actual assessment
+ukk2101-19050,Bournemouth Manor Steps,2019,Excellent,1976 directive,actual assessment
+ukk2101-19050,Bournemouth Manor Steps,2021,Excellent,1976 directive,actual assessment
+ukk2101-19050,Bournemouth Manor Steps,2022,Excellent,1976 directive,actual assessment
+ukk2101-19060,Bournemouth Boscombe Pier,2019,Good,1976 directive,actual assessment
+ukk2101-19060,Bournemouth Boscombe Pier,2021,Excellent,1976 directive,actual assessment
+ukk2101-19060,Bournemouth Boscombe Pier,2022,Good,1976 directive,actual assessment
+ukk2101-19100,Bournemouth Pier,2019,Excellent,1976 directive,actual assessment
+ukk2101-19100,Bournemouth Pier,2021,Excellent,1976 directive,actual assessment
+ukk2101-19100,Bournemouth Pier,2022,Excellent,1976 directive,actual assessment
+ukk2101-19150,Bournemouth Durley Chine,2019,Excellent,1976 directive,actual assessment
+ukk2101-19150,Bournemouth Durley Chine,2021,Excellent,1976 directive,actual assessment
+ukk2101-19150,Bournemouth Durley Chine,2022,Excellent,1976 directive,actual assessment
+ukk2101-19160,Bournemouth Alum Chine,2019,Excellent,1976 directive,actual assessment
+ukk2101-19160,Bournemouth Alum Chine,2021,Excellent,1976 directive,actual assessment
+ukk2101-19160,Bournemouth Alum Chine,2022,Excellent,1976 directive,actual assessment
+ukk2102-19170,Poole Branksome Chine,2019,Excellent,1976 directive,actual assessment
+ukk2102-19170,Poole Branksome Chine,2021,Excellent,1976 directive,actual assessment
+ukk2102-19170,Poole Branksome Chine,2022,Excellent,1976 directive,actual assessment
+ukk2102-19190,Poole Canford Cliffs Chine,2019,Excellent,1976 directive,actual assessment
+ukk2102-19190,Poole Canford Cliffs Chine,2021,Excellent,1976 directive,actual assessment
+ukk2102-19190,Poole Canford Cliffs Chine,2022,Excellent,1976 directive,actual assessment
+ukk2102-19200,Poole Shore Road Beach,2019,Excellent,1976 directive,actual assessment
+ukk2102-19200,Poole Shore Road Beach,2021,Excellent,1976 directive,actual assessment
+ukk2102-19200,Poole Shore Road Beach,2022,Excellent,1976 directive,actual assessment
+ukk2102-19350,Poole Sandbanks Peninsular,2019,Excellent,1976 directive,actual assessment
+ukk2102-19350,Poole Sandbanks Peninsular,2021,Excellent,1976 directive,actual assessment
+ukk2102-19350,Poole Sandbanks Peninsular,2022,Excellent,1976 directive,actual assessment
+ukk2102-19400,Poole Harbour Lake,2019,Excellent,1976 directive,actual assessment
+ukk2102-19400,Poole Harbour Lake,2021,Excellent,1976 directive,actual assessment
+ukk2102-19400,Poole Harbour Lake,2022,Excellent,1976 directive,actual assessment
+ukk2102-19450,Poole Harbour Rockley Sands,2019,Excellent,1976 directive,actual assessment
+ukk2102-19450,Poole Harbour Rockley Sands,2021,Good,1976 directive,actual assessment
+ukk2102-19450,Poole Harbour Rockley Sands,2022,Good,1976 directive,actual assessment
+ukk2201-17200,Christchurch Bay,2019,Excellent,1976 directive,actual assessment
+ukk2201-17200,Christchurch Bay,2021,Excellent,1976 directive,actual assessment
+ukk2201-17200,Christchurch Bay,2022,Excellent,1976 directive,actual assessment
+ukk2201-17300,Highcliffe,2019,Excellent,1976 directive,actual assessment
+ukk2201-17300,Highcliffe,2021,Excellent,1976 directive,actual assessment
+ukk2201-17300,Highcliffe,2022,Excellent,1976 directive,actual assessment
+ukk2201-18700,Christchurch Highcliffe Castle,2019,Excellent,1976 directive,actual assessment
+ukk2201-18700,Christchurch Highcliffe Castle,2021,Excellent,1976 directive,actual assessment
+ukk2201-18700,Christchurch Highcliffe Castle,2022,Excellent,1976 directive,actual assessment
+ukk2201-18750,Christchurch Friar`s Cliff,2019,Excellent,1976 directive,actual assessment
+ukk2201-18750,Christchurch Friar`s Cliff,2021,Excellent,1976 directive,actual assessment
+ukk2201-18750,Christchurch Friar`s Cliff,2022,Excellent,1976 directive,actual assessment
+ukk2201-18800,Christchurch Avon Beach,2019,Excellent,1976 directive,actual assessment
+ukk2201-18800,Christchurch Avon Beach,2021,Excellent,1976 directive,actual assessment
+ukk2201-18800,Christchurch Avon Beach,2022,Excellent,1976 directive,actual assessment
+ukk2201-18900,Christchurch Mudeford Sandbank East,2019,Excellent,1976 directive,actual assessment
+ukk2201-18900,Christchurch Mudeford Sandbank East,2021,Excellent,1976 directive,actual assessment
+ukk2201-18900,Christchurch Mudeford Sandbank East,2022,Excellent,1976 directive,actual assessment
+ukk2204-19600,Shell Bay North,2019,Excellent,1976 directive,actual assessment
+ukk2204-19600,Shell Bay North,2021,Excellent,1976 directive,actual assessment
+ukk2204-19600,Shell Bay North,2022,Excellent,1976 directive,actual assessment
+ukk2204-19700,Studland Knoll House,2019,Excellent,1976 directive,actual assessment
+ukk2204-19700,Studland Knoll House,2021,Excellent,1976 directive,actual assessment
+ukk2204-19700,Studland Knoll House,2022,Excellent,1976 directive,actual assessment
+ukk2204-19800,Swanage Central,2019,Excellent,1976 directive,actual assessment
+ukk2204-19800,Swanage Central,2021,Excellent,1976 directive,actual assessment
+ukk2204-19800,Swanage Central,2022,Excellent,1976 directive,actual assessment
+ukk2204-19900,Kimmeridge Bay,2019,Excellent,1976 directive,actual assessment
+ukk2204-19900,Kimmeridge Bay,2021,Excellent,1976 directive,actual assessment
+ukk2204-19900,Kimmeridge Bay,2022,Excellent,1976 directive,actual assessment
+ukk2204-20000,Lulworth Cove,2019,Excellent,1976 directive,actual assessment
+ukk2204-20000,Lulworth Cove,2021,Excellent,1976 directive,actual assessment
+ukk2204-20000,Lulworth Cove,2022,Excellent,1976 directive,actual assessment
+ukk2204-20100,Durdle Door East,2019,Excellent,1976 directive,actual assessment
+ukk2204-20100,Durdle Door East,2021,Excellent,1976 directive,actual assessment
+ukk2204-20100,Durdle Door East,2022,Excellent,1976 directive,actual assessment
+ukk2204-20200,Durdle Door West,2019,Excellent,1976 directive,actual assessment
+ukk2204-20200,Durdle Door West,2021,Excellent,1976 directive,actual assessment
+ukk2204-20200,Durdle Door West,2022,Excellent,1976 directive,actual assessment
+ukk2205-20970,Hive,2019,Excellent,1976 directive,actual assessment
+ukk2205-20970,Hive,2021,Excellent,1976 directive,actual assessment
+ukk2205-20970,Hive,2022,Excellent,1976 directive,actual assessment
+ukk2205-21000,West Bay (West),2019,Excellent,1976 directive,actual assessment
+ukk2205-21000,West Bay (West),2021,Excellent,1976 directive,actual assessment
+ukk2205-21000,West Bay (West),2022,Excellent,1976 directive,actual assessment
+ukk2205-21100,Eypemouth,2019,Excellent,1976 directive,actual assessment
+ukk2205-21100,Eypemouth,2021,Excellent,1976 directive,actual assessment
+ukk2205-21100,Eypemouth,2022,Excellent,1976 directive,actual assessment
+ukk2205-21200,Seatown,2019,Excellent,1976 directive,actual assessment
+ukk2205-21200,Seatown,2021,Excellent,1976 directive,actual assessment
+ukk2205-21200,Seatown,2022,Excellent,1976 directive,actual assessment
+ukk2205-21300,Charmouth West,2019,Excellent,1976 directive,actual assessment
+ukk2205-21300,Charmouth West,2021,Excellent,1976 directive,actual assessment
+ukk2205-21300,Charmouth West,2022,Excellent,1976 directive,actual assessment
+ukk2205-21500,Lyme Regis Front Beach,2019,Good,1976 directive,actual assessment
+ukk2205-21500,Lyme Regis Front Beach,2021,Good,1976 directive,actual assessment
+ukk2205-21500,Lyme Regis Front Beach,2022,Good,1976 directive,actual assessment
+ukk2206-20300,Ringstead Bay,2019,Excellent,1976 directive,actual assessment
+ukk2206-20300,Ringstead Bay,2021,Excellent,1976 directive,actual assessment
+ukk2206-20300,Ringstead Bay,2022,Excellent,1976 directive,actual assessment
+ukk2206-20400,Bowleaze Cove,2019,Excellent,1976 directive,actual assessment
+ukk2206-20400,Bowleaze Cove,2021,Good,1976 directive,actual assessment
+ukk2206-20400,Bowleaze Cove,2022,Sufficient,1976 directive,actual assessment
+ukk2206-20500,Church Ope Cove,2019,Excellent,1976 directive,actual assessment
+ukk2206-20500,Church Ope Cove,2021,Excellent,1976 directive,actual assessment
+ukk2206-20500,Church Ope Cove,2022,Excellent,1976 directive,actual assessment
+ukk2206-20600,Weymouth Lodmoor,2019,Excellent,1976 directive,actual assessment
+ukk2206-20600,Weymouth Lodmoor,2021,Excellent,1976 directive,actual assessment
+ukk2206-20600,Weymouth Lodmoor,2022,Excellent,1976 directive,actual assessment
+ukk2206-20700,Weymouth Central,2019,Excellent,1976 directive,actual assessment
+ukk2206-20700,Weymouth Central,2021,Excellent,1976 directive,actual assessment
+ukk2206-20700,Weymouth Central,2022,Excellent,1976 directive,actual assessment
+ukk2206-20800,Portland Harbour Castle Cove,2019,Excellent,1976 directive,actual assessment
+ukk2206-20800,Portland Harbour Castle Cove,2021,Excellent,1976 directive,actual assessment
+ukk2206-20800,Portland Harbour Castle Cove,2022,Excellent,1976 directive,actual assessment
+ukk2206-20900,Portland Harbour Sandsfoot Castle,2019,Good,1976 directive,actual assessment
+ukk2206-20900,Portland Harbour Sandsfoot Castle,2021,Good,1976 directive,actual assessment
+ukk2206-20900,Portland Harbour Sandsfoot Castle,2022,Excellent,1976 directive,actual assessment
+ukk2302-35300,Burnham Jetty North,2019,Poor,1976 directive,actual assessment
+ukk2302-35500,Berrow North of Unity Farm,2019,Excellent,1976 directive,actual assessment
+ukk2302-35500,Berrow North of Unity Farm,2021,Good,1976 directive,actual assessment
+ukk2302-35500,Berrow North of Unity Farm,2022,Excellent,1976 directive,actual assessment
+ukk2302-35600,Brean,2019,Excellent,1976 directive,actual assessment
+ukk2302-35600,Brean,2021,Good,1976 directive,actual assessment
+ukk2302-35600,Brean,2022,Good,1976 directive,actual assessment
+ukk2305-34900,Porlock Weir,2019,Excellent,1976 directive,actual assessment
+ukk2305-34900,Porlock Weir,2021,Excellent,1976 directive,actual assessment
+ukk2305-34900,Porlock Weir,2022,Excellent,1976 directive,actual assessment
+ukk2305-35000,Minehead Terminus,2019,Good,1976 directive,actual assessment
+ukk2305-35000,Minehead Terminus,2021,Good,1976 directive,actual assessment
+ukk2305-35000,Minehead Terminus,2022,Good,1976 directive,actual assessment
+ukk2305-35100,Dunster Beach,2019,Sufficient,1976 directive,actual assessment
+ukk2305-35100,Dunster Beach,2021,Sufficient,1976 directive,actual assessment
+ukk2305-35100,Dunster Beach,2022,Poor,1976 directive,actual assessment
+ukk2305-35200,Blue Anchor West,2019,Sufficient,1976 directive,actual assessment
+ukk2305-35200,Blue Anchor West,2021,Sufficient,1976 directive,actual assessment
+ukk2305-35200,Blue Anchor West,2022,Sufficient,1976 directive,actual assessment
+ukk3101-26520,Kingsand,2019,Excellent,1976 directive,actual assessment
+ukk3101-26520,Kingsand,2021,Excellent,1976 directive,actual assessment
+ukk3101-26520,Kingsand,2022,Excellent,1976 directive,actual assessment
+ukk3101-26530,Cawsand,2019,Excellent,1976 directive,actual assessment
+ukk3101-26530,Cawsand,2021,Excellent,1976 directive,actual assessment
+ukk3101-26530,Cawsand,2022,Excellent,1976 directive,actual assessment
+ukk3101-26560,Tregonhawke,2019,Excellent,1976 directive,actual assessment
+ukk3101-26560,Tregonhawke,2021,Excellent,1976 directive,actual assessment
+ukk3101-26560,Tregonhawke,2022,Excellent,1976 directive,actual assessment
+ukk3101-26570,Sharrow,2019,Excellent,1976 directive,actual assessment
+ukk3101-26570,Sharrow,2021,Excellent,1976 directive,actual assessment
+ukk3101-26570,Sharrow,2022,Excellent,1976 directive,actual assessment
+ukk3101-26600,Portwrinkle,2019,Excellent,1976 directive,actual assessment
+ukk3101-26600,Portwrinkle,2021,Good,1976 directive,actual assessment
+ukk3101-26600,Portwrinkle,2022,Excellent,1976 directive,actual assessment
+ukk3101-26700,Downderry,2019,Excellent,1976 directive,actual assessment
+ukk3101-26700,Downderry,2021,Excellent,1976 directive,actual assessment
+ukk3101-26700,Downderry,2022,Excellent,1976 directive,actual assessment
+ukk3101-26800,Seaton (Cornwall),2019,Excellent,1976 directive,actual assessment
+ukk3101-26800,Seaton (Cornwall),2021,Excellent,1976 directive,actual assessment
+ukk3101-26800,Seaton (Cornwall),2022,Excellent,1976 directive,actual assessment
+ukk3101-26900,Millendreath,2019,Excellent,1976 directive,actual assessment
+ukk3101-26900,Millendreath,2021,Good,1976 directive,actual assessment
+ukk3101-26900,Millendreath,2022,Good,1976 directive,actual assessment
+ukk3101-27000,East Looe,2019,Good,1976 directive,actual assessment
+ukk3101-27000,East Looe,2021,Good,1976 directive,actual assessment
+ukk3101-27000,East Looe,2022,Good,1976 directive,actual assessment
+ukk3102-28500,Pendower,2019,Excellent,1976 directive,actual assessment
+ukk3102-28500,Pendower,2021,Good,1976 directive,actual assessment
+ukk3102-28500,Pendower,2022,Excellent,1976 directive,actual assessment
+ukk3102-28550,Porthcurnick,2019,Good,1976 directive,actual assessment
+ukk3102-28550,Porthcurnick,2021,Good,1976 directive,actual assessment
+ukk3102-28550,Porthcurnick,2022,Excellent,1976 directive,actual assessment
+ukk3102-28600,Gyllyngvase,2019,Excellent,1976 directive,actual assessment
+ukk3102-28600,Gyllyngvase,2021,Excellent,1976 directive,actual assessment
+ukk3102-28600,Gyllyngvase,2022,Excellent,1976 directive,actual assessment
+ukk3102-28700,Swanpool,2019,Excellent,1976 directive,actual assessment
+ukk3102-28700,Swanpool,2021,Excellent,1976 directive,actual assessment
+ukk3102-28700,Swanpool,2022,Good,1976 directive,actual assessment
+ukk3102-28800,Maenporth,2019,Good,1976 directive,actual assessment
+ukk3102-28800,Maenporth,2021,Good,1976 directive,actual assessment
+ukk3102-28800,Maenporth,2022,Good,1976 directive,actual assessment
+ukk3102-31600,Porthtowan,2019,Excellent,1976 directive,actual assessment
+ukk3102-31600,Porthtowan,2021,Excellent,1976 directive,actual assessment
+ukk3102-31600,Porthtowan,2022,Excellent,1976 directive,actual assessment
+ukk3102-31650,Chapel Porth,2019,Excellent,1976 directive,actual assessment
+ukk3102-31650,Chapel Porth,2021,Excellent,1976 directive,actual assessment
+ukk3102-31650,Chapel Porth,2022,Excellent,1976 directive,actual assessment
+ukk3102-31700,Trevaunance Cove,2019,Excellent,1976 directive,actual assessment
+ukk3102-31700,Trevaunance Cove,2021,Excellent,1976 directive,actual assessment
+ukk3102-31700,Trevaunance Cove,2022,Excellent,1976 directive,actual assessment
+ukk3102-31800,Perranporth,2019,Excellent,1976 directive,actual assessment
+ukk3102-31800,Perranporth,2021,Excellent,1976 directive,actual assessment
+ukk3102-31800,Perranporth,2022,Excellent,1976 directive,actual assessment
+ukk3102-31900,Perranporth Penhale Sands,2019,Excellent,1976 directive,actual assessment
+ukk3102-31900,Perranporth Penhale Sands,2021,Excellent,1976 directive,actual assessment
+ukk3102-31900,Perranporth Penhale Sands,2022,Excellent,1976 directive,actual assessment
+ukk3102-32000,Holywell Bay,2019,Excellent,1976 directive,actual assessment
+ukk3102-32000,Holywell Bay,2021,Excellent,1976 directive,actual assessment
+ukk3102-32000,Holywell Bay,2022,Excellent,1976 directive,actual assessment
+ukk3103-28900,Porthallow,2019,Excellent,1976 directive,actual assessment
+ukk3103-28900,Porthallow,2021,Excellent,1976 directive,actual assessment
+ukk3103-28900,Porthallow,2022,Excellent,1976 directive,actual assessment
+ukk3103-29000,Porthoustock,2019,Excellent,1976 directive,actual assessment
+ukk3103-29000,Porthoustock,2021,Excellent,1976 directive,actual assessment
+ukk3103-29000,Porthoustock,2022,Excellent,1976 directive,actual assessment
+ukk3103-29100,Coverack,2019,Excellent,1976 directive,actual assessment
+ukk3103-29100,Coverack,2021,Excellent,1976 directive,actual assessment
+ukk3103-29100,Coverack,2022,Excellent,1976 directive,actual assessment
+ukk3103-29200,Kennack Sands,2019,Excellent,1976 directive,actual assessment
+ukk3103-29200,Kennack Sands,2021,Excellent,1976 directive,actual assessment
+ukk3103-29200,Kennack Sands,2022,Excellent,1976 directive,actual assessment
+ukk3103-29400,Polurrian Cove,2019,Excellent,1976 directive,actual assessment
+ukk3103-29400,Polurrian Cove,2021,Excellent,1976 directive,actual assessment
+ukk3103-29400,Polurrian Cove,2022,Excellent,1976 directive,actual assessment
+ukk3103-29500,Poldhu Cove,2019,Excellent,1976 directive,actual assessment
+ukk3103-29500,Poldhu Cove,2021,Excellent,1976 directive,actual assessment
+ukk3103-29500,Poldhu Cove,2022,Excellent,1976 directive,actual assessment
+ukk3103-29501,Church Cove,2019,Excellent,1976 directive,actual assessment
+ukk3103-29501,Church Cove,2021,Excellent,1976 directive,actual assessment
+ukk3103-29501,Church Cove,2022,Excellent,1976 directive,actual assessment
+ukk3103-29800,Porthleven Sands,2019,Good,1976 directive,actual assessment
+ukk3103-29800,Porthleven Sands,2021,Good,1976 directive,actual assessment
+ukk3103-29800,Porthleven Sands,2022,Good,1976 directive,actual assessment
+ukk3103-29900,Praa Sands East,2019,Excellent,1976 directive,actual assessment
+ukk3103-29900,Praa Sands East,2021,Excellent,1976 directive,actual assessment
+ukk3103-29900,Praa Sands East,2022,Excellent,1976 directive,actual assessment
+ukk3103-30000,Praa Sands West,2019,Excellent,1976 directive,actual assessment
+ukk3103-30000,Praa Sands West,2021,Excellent,1976 directive,actual assessment
+ukk3103-30000,Praa Sands West,2022,Excellent,1976 directive,actual assessment
+ukk3103-31500,Portreath,2019,Excellent,1976 directive,actual assessment
+ukk3103-31500,Portreath,2021,Excellent,1976 directive,actual assessment
+ukk3103-31500,Portreath,2022,Excellent,1976 directive,actual assessment
+ukk3104-32550,Porthcothan,2019,Excellent,1976 directive,actual assessment
+ukk3104-32550,Porthcothan,2021,Excellent,1976 directive,actual assessment
+ukk3104-32550,Porthcothan,2022,Excellent,1976 directive,actual assessment
+ukk3104-32600,Treyarnon Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-32600,Treyarnon Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-32600,Treyarnon Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-32700,Constantine Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-32700,Constantine Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-32700,Constantine Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-32750,Booby's Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-32750,Booby's Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-32750,Booby's Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-32800,Mother Ivey`s Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-32800,Mother Ivey`s Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-32800,Mother Ivey`s Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-32900,Harlyn Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-32900,Harlyn Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-32900,Harlyn Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-33000,Trevone Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-33000,Trevone Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-33000,Trevone Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-33200,Daymer Bay,2019,Excellent,1976 directive,actual assessment
+ukk3104-33200,Daymer Bay,2021,Excellent,1976 directive,actual assessment
+ukk3104-33200,Daymer Bay,2022,Excellent,1976 directive,actual assessment
+ukk3104-33300,Polzeath,2019,Excellent,1976 directive,actual assessment
+ukk3104-33300,Polzeath,2021,Excellent,1976 directive,actual assessment
+ukk3104-33300,Polzeath,2022,Excellent,1976 directive,actual assessment
+ukk3104-33350,Trebarwith Strand,2019,Excellent,1976 directive,actual assessment
+ukk3104-33350,Trebarwith Strand,2021,Good,1976 directive,actual assessment
+ukk3104-33350,Trebarwith Strand,2022,Good,1976 directive,actual assessment
+ukk3104-33360,Crackington Haven,2019,Excellent,1976 directive,actual assessment
+ukk3104-33360,Crackington Haven,2021,Excellent,1976 directive,actual assessment
+ukk3104-33360,Crackington Haven,2022,Excellent,1976 directive,actual assessment
+ukk3104-33400,Widemouth Sand,2019,Excellent,1976 directive,actual assessment
+ukk3104-33400,Widemouth Sand,2021,Excellent,1976 directive,actual assessment
+ukk3104-33400,Widemouth Sand,2022,Excellent,1976 directive,actual assessment
+ukk3104-33500,Summerleaze,2019,Excellent,1976 directive,actual assessment
+ukk3104-33500,Summerleaze,2021,Excellent,1976 directive,actual assessment
+ukk3104-33500,Summerleaze,2022,Excellent,1976 directive,actual assessment
+ukk3104-33600,Crooklets,2019,Excellent,1976 directive,actual assessment
+ukk3104-33600,Crooklets,2021,Excellent,1976 directive,actual assessment
+ukk3104-33600,Crooklets,2022,Excellent,1976 directive,actual assessment
+ukk3104-33650,Northcott Mouth,2019,Excellent,1976 directive,actual assessment
+ukk3104-33650,Northcott Mouth,2021,Excellent,1976 directive,actual assessment
+ukk3104-33650,Northcott Mouth,2022,Excellent,1976 directive,actual assessment
+ukk3104-33700,Sandymouth,2019,Excellent,1976 directive,actual assessment
+ukk3104-33700,Sandymouth,2021,Excellent,1976 directive,actual assessment
+ukk3104-33700,Sandymouth,2022,Excellent,1976 directive,actual assessment
+ukk3105-30100,Perranuthnoe,2019,Excellent,1976 directive,actual assessment
+ukk3105-30100,Perranuthnoe,2021,Excellent,1976 directive,actual assessment
+ukk3105-30100,Perranuthnoe,2022,Excellent,1976 directive,actual assessment
+ukk3105-30200,Marazion,2019,Excellent,1976 directive,actual assessment
+ukk3105-30200,Marazion,2021,Good,1976 directive,actual assessment
+ukk3105-30200,Marazion,2022,Good,1976 directive,actual assessment
+ukk3105-30300,Long Rock,2019,Good,1976 directive,actual assessment
+ukk3105-30300,Long Rock,2021,Good,1976 directive,actual assessment
+ukk3105-30300,Long Rock,2022,Good,1976 directive,actual assessment
+ukk3105-30400,Penzance,2019,Good,1976 directive,actual assessment
+ukk3105-30400,Penzance,2021,Good,1976 directive,actual assessment
+ukk3105-30400,Penzance,2022,Good,1976 directive,actual assessment
+ukk3105-30500,Wherry Town,2019,Excellent,1976 directive,actual assessment
+ukk3105-30500,Wherry Town,2021,Good,1976 directive,actual assessment
+ukk3105-30500,Wherry Town,2022,Good,1976 directive,actual assessment
+ukk3105-30600,Porthcurno,2019,Excellent,1976 directive,actual assessment
+ukk3105-30600,Porthcurno,2021,Excellent,1976 directive,actual assessment
+ukk3105-30600,Porthcurno,2022,Excellent,1976 directive,actual assessment
+ukk3105-30700,Sennen,2019,Excellent,1976 directive,actual assessment
+ukk3105-30700,Sennen,2021,Excellent,1976 directive,actual assessment
+ukk3105-30700,Sennen,2022,Excellent,1976 directive,actual assessment
+ukk3105-30750,Gwynver,2019,Excellent,1976 directive,actual assessment
+ukk3105-30750,Gwynver,2021,Excellent,1976 directive,actual assessment
+ukk3105-30750,Gwynver,2022,Excellent,1976 directive,actual assessment
+ukk3105-30800,Porthmeor,2019,Excellent,1976 directive,actual assessment
+ukk3105-30800,Porthmeor,2021,Excellent,1976 directive,actual assessment
+ukk3105-30800,Porthmeor,2022,Excellent,1976 directive,actual assessment
+ukk3105-30900,Porthgwidden,2019,Excellent,1976 directive,actual assessment
+ukk3105-30900,Porthgwidden,2021,Excellent,1976 directive,actual assessment
+ukk3105-30900,Porthgwidden,2022,Excellent,1976 directive,actual assessment
+ukk3105-31000,Porthminster,2019,Good,1976 directive,actual assessment
+ukk3105-31000,Porthminster,2021,Excellent,1976 directive,actual assessment
+ukk3105-31000,Porthminster,2022,Good,1976 directive,actual assessment
+ukk3105-31100,Carbis Bay,2019,Excellent,1976 directive,actual assessment
+ukk3105-31100,Carbis Bay,2021,Excellent,1976 directive,actual assessment
+ukk3105-31100,Carbis Bay,2022,Excellent,1976 directive,actual assessment
+ukk3105-31200,Porthkidney Sands,2019,Excellent,1976 directive,actual assessment
+ukk3105-31200,Porthkidney Sands,2021,Good,1976 directive,actual assessment
+ukk3105-31200,Porthkidney Sands,2022,Good,1976 directive,actual assessment
+ukk3105-31250,Mexico Towans,2019,Excellent,1976 directive,actual assessment
+ukk3105-31250,Mexico Towans,2021,Excellent,1976 directive,actual assessment
+ukk3105-31250,Mexico Towans,2022,Excellent,1976 directive,actual assessment
+ukk3105-31300,Hayle Towans,2019,Excellent,1976 directive,actual assessment
+ukk3105-31300,Hayle Towans,2021,Excellent,1976 directive,actual assessment
+ukk3105-31300,Hayle Towans,2022,Excellent,1976 directive,actual assessment
+ukk3105-31350,Upton Towans,2019,Excellent,1976 directive,actual assessment
+ukk3105-31350,Upton Towans,2021,Excellent,1976 directive,actual assessment
+ukk3105-31350,Upton Towans,2022,Excellent,1976 directive,actual assessment
+ukk3105-31400,Gwithian Towans,2019,Excellent,1976 directive,actual assessment
+ukk3105-31400,Gwithian Towans,2021,Excellent,1976 directive,actual assessment
+ukk3105-31400,Gwithian Towans,2022,Excellent,1976 directive,actual assessment
+ukk3105-31450,Godrevy Towans,2019,Excellent,1976 directive,actual assessment
+ukk3105-31450,Godrevy Towans,2021,Excellent,1976 directive,actual assessment
+ukk3105-31450,Godrevy Towans,2022,Excellent,1976 directive,actual assessment
+ukk3106-27100,Readymoney Cove,2019,Excellent,1976 directive,actual assessment
+ukk3106-27100,Readymoney Cove,2021,Excellent,1976 directive,actual assessment
+ukk3106-27100,Readymoney Cove,2022,Good,1976 directive,actual assessment
+ukk3106-27200,Polkerris,2019,Good,1976 directive,actual assessment
+ukk3106-27200,Polkerris,2021,Good,1976 directive,actual assessment
+ukk3106-27200,Polkerris,2022,Good,1976 directive,actual assessment
+ukk3106-27300,Par Sands,2019,Good,1976 directive,actual assessment
+ukk3106-27300,Par Sands,2021,Sufficient,1976 directive,actual assessment
+ukk3106-27300,Par Sands,2022,Good,1976 directive,actual assessment
+ukk3106-27400,Shorthorn Beach,2019,Excellent,1976 directive,actual assessment
+ukk3106-27400,Shorthorn Beach,2021,Excellent,1976 directive,actual assessment
+ukk3106-27400,Shorthorn Beach,2022,Excellent,1976 directive,actual assessment
+ukk3106-27500,Crinnis Beach,2019,Excellent,1976 directive,actual assessment
+ukk3106-27500,Crinnis Beach,2021,Excellent,1976 directive,actual assessment
+ukk3106-27500,Crinnis Beach,2022,Excellent,1976 directive,actual assessment
+ukk3106-27600,Charlestown,2019,Excellent,1976 directive,actual assessment
+ukk3106-27600,Charlestown,2021,Excellent,1976 directive,actual assessment
+ukk3106-27600,Charlestown,2022,Excellent,1976 directive,actual assessment
+ukk3106-27700,Duporth,2019,Excellent,1976 directive,actual assessment
+ukk3106-27700,Duporth,2021,Excellent,1976 directive,actual assessment
+ukk3106-27700,Duporth,2022,Excellent,1976 directive,actual assessment
+ukk3106-27800,Porthpean,2019,Excellent,1976 directive,actual assessment
+ukk3106-27800,Porthpean,2021,Excellent,1976 directive,actual assessment
+ukk3106-27800,Porthpean,2022,Excellent,1976 directive,actual assessment
+ukk3106-27900,Pentewan,2019,Excellent,1976 directive,actual assessment
+ukk3106-27900,Pentewan,2021,Excellent,1976 directive,actual assessment
+ukk3106-27900,Pentewan,2022,Excellent,1976 directive,actual assessment
+ukk3106-28000,Polstreath,2019,Excellent,1976 directive,actual assessment
+ukk3106-28000,Polstreath,2021,Excellent,1976 directive,actual assessment
+ukk3106-28000,Polstreath,2022,Excellent,1976 directive,actual assessment
+ukk3106-28100,Portmellon,2019,Excellent,1976 directive,actual assessment
+ukk3106-28100,Portmellon,2021,Excellent,1976 directive,actual assessment
+ukk3106-28100,Portmellon,2022,Excellent,1976 directive,actual assessment
+ukk3106-28200,Gorran Haven Little Perhaver,2019,Good,1976 directive,actual assessment
+ukk3106-28200,Gorran Haven Little Perhaver,2021,Good,1976 directive,actual assessment
+ukk3106-28200,Gorran Haven Little Perhaver,2022,Excellent,1976 directive,actual assessment
+ukk3106-28300,Vault Beach,2019,Excellent,1976 directive,actual assessment
+ukk3106-28300,Vault Beach,2021,Excellent,1976 directive,actual assessment
+ukk3106-28300,Vault Beach,2022,Excellent,1976 directive,actual assessment
+ukk3106-28400,Porthluney,2019,Good,1976 directive,actual assessment
+ukk3106-28400,Porthluney,2021,Sufficient,1976 directive,actual assessment
+ukk3106-28400,Porthluney,2022,Sufficient,1976 directive,actual assessment
+ukk3106-32100,Crantock,2019,Good,1976 directive,actual assessment
+ukk3106-32100,Crantock,2021,Good,1976 directive,actual assessment
+ukk3106-32100,Crantock,2022,Good,1976 directive,actual assessment
+ukk3106-32150,Fistral South,2019,Excellent,1976 directive,actual assessment
+ukk3106-32150,Fistral South,2021,Excellent,1976 directive,actual assessment
+ukk3106-32150,Fistral South,2022,Excellent,1976 directive,actual assessment
+ukk3106-32200,Fistral North,2019,Excellent,1976 directive,actual assessment
+ukk3106-32200,Fistral North,2021,Excellent,1976 directive,actual assessment
+ukk3106-32200,Fistral North,2022,Excellent,1976 directive,actual assessment
+ukk3106-32300,Towan,2019,Good,1976 directive,actual assessment
+ukk3106-32300,Towan,2021,Excellent,1976 directive,actual assessment
+ukk3106-32300,Towan,2022,Excellent,1976 directive,actual assessment
+ukk3106-32310,Great Western,2019,Excellent,1976 directive,actual assessment
+ukk3106-32310,Great Western,2021,Excellent,1976 directive,actual assessment
+ukk3106-32310,Great Western,2022,Excellent,1976 directive,actual assessment
+ukk3106-32320,Tolcarne,2019,Excellent,1976 directive,actual assessment
+ukk3106-32320,Tolcarne,2021,Excellent,1976 directive,actual assessment
+ukk3106-32320,Tolcarne,2022,Excellent,1976 directive,actual assessment
+ukk3106-32330,Lusty Glaze,2019,Excellent,1976 directive,actual assessment
+ukk3106-32330,Lusty Glaze,2021,Excellent,1976 directive,actual assessment
+ukk3106-32330,Lusty Glaze,2022,Excellent,1976 directive,actual assessment
+ukk3106-32340,Porth,2019,Sufficient,1976 directive,actual assessment
+ukk3106-32340,Porth,2021,Good,1976 directive,actual assessment
+ukk3106-32340,Porth,2022,Good,1976 directive,actual assessment
+ukk3106-32400,Watergate Bay,2019,Excellent,1976 directive,actual assessment
+ukk3106-32400,Watergate Bay,2021,Excellent,1976 directive,actual assessment
+ukk3106-32400,Watergate Bay,2022,Excellent,1976 directive,actual assessment
+ukk3106-32500,Mawgan Porth,2019,Excellent,1976 directive,actual assessment
+ukk3106-32500,Mawgan Porth,2021,Excellent,1976 directive,actual assessment
+ukk3106-32500,Mawgan Porth,2022,Excellent,1976 directive,actual assessment
+ukk4100-26400,Plymouth Hoe East,2019,Good,1976 directive,actual assessment
+ukk4100-26400,Plymouth Hoe East,2021,Good,1976 directive,actual assessment
+ukk4100-26400,Plymouth Hoe East,2022,Excellent,1976 directive,actual assessment
+ukk4100-26500,Plymouth Hoe West,2019,Excellent,1976 directive,actual assessment
+ukk4100-26500,Plymouth Hoe West,2021,Excellent,1976 directive,actual assessment
+ukk4100-26500,Plymouth Hoe West,2022,Excellent,1976 directive,actual assessment
+ukk4200-23100,Maidencombe,2019,Excellent,1976 directive,actual assessment
+ukk4200-23100,Maidencombe,2021,Excellent,1976 directive,actual assessment
+ukk4200-23100,Maidencombe,2022,Excellent,1976 directive,actual assessment
+ukk4200-23200,Watcombe,2019,Excellent,1976 directive,actual assessment
+ukk4200-23200,Watcombe,2021,Closed,1976 directive,actual assessment
+ukk4200-23200,Watcombe,2022,Closed,1976 directive,actual assessment
+ukk4200-23300,Oddicombe,2019,Excellent,1976 directive,actual assessment
+ukk4200-23300,Oddicombe,2021,Excellent,1976 directive,actual assessment
+ukk4200-23300,Oddicombe,2022,Excellent,1976 directive,actual assessment
+ukk4200-23400,Babbacombe,2019,Excellent,1976 directive,actual assessment
+ukk4200-23400,Babbacombe,2021,Excellent,1976 directive,actual assessment
+ukk4200-23400,Babbacombe,2022,Excellent,1976 directive,actual assessment
+ukk4200-23501,Anstey's Cove (Torquay),2019,Excellent,1976 directive,actual assessment
+ukk4200-23501,Anstey's Cove (Torquay),2021,Excellent,1976 directive,actual assessment
+ukk4200-23501,Anstey's Cove (Torquay),2022,Excellent,1976 directive,actual assessment
+ukk4200-23600,Meadfoot,2019,Excellent,1976 directive,actual assessment
+ukk4200-23600,Meadfoot,2021,Excellent,1976 directive,actual assessment
+ukk4200-23600,Meadfoot,2022,Excellent,1976 directive,actual assessment
+ukk4200-23700,Beacon Cove,2019,Excellent,1976 directive,actual assessment
+ukk4200-23700,Beacon Cove,2021,Excellent,1976 directive,actual assessment
+ukk4200-23700,Beacon Cove,2022,Excellent,1976 directive,actual assessment
+ukk4200-23800,Torre Abbey,2019,Excellent,1976 directive,actual assessment
+ukk4200-23800,Torre Abbey,2021,Excellent,1976 directive,actual assessment
+ukk4200-23800,Torre Abbey,2022,Excellent,1976 directive,actual assessment
+ukk4200-23900,Hollicombe,2019,Good,1976 directive,actual assessment
+ukk4200-23900,Hollicombe,2021,Good,1976 directive,actual assessment
+ukk4200-23900,Hollicombe,2022,Good,1976 directive,actual assessment
+ukk4200-24000,Paignton Preston Sands,2019,Excellent,1976 directive,actual assessment
+ukk4200-24000,Paignton Preston Sands,2021,Excellent,1976 directive,actual assessment
+ukk4200-24000,Paignton Preston Sands,2022,Excellent,1976 directive,actual assessment
+ukk4200-24100,Paignton Paignton Sands,2019,Good,1976 directive,actual assessment
+ukk4200-24100,Paignton Paignton Sands,2021,Good,1976 directive,actual assessment
+ukk4200-24100,Paignton Paignton Sands,2022,Good,1976 directive,actual assessment
+ukk4200-24200,Goodrington,2019,Sufficient,1976 directive,actual assessment
+ukk4200-24200,Goodrington,2021,Good,1976 directive,actual assessment
+ukk4200-24200,Goodrington,2022,Good,1976 directive,actual assessment
+ukk4200-24300,Broadsands,2019,Excellent,1976 directive,actual assessment
+ukk4200-24300,Broadsands,2021,Excellent,1976 directive,actual assessment
+ukk4200-24300,Broadsands,2022,Excellent,1976 directive,actual assessment
+ukk4200-24500,Breakwater Beach (Shoalstone),2019,Excellent,1976 directive,actual assessment
+ukk4200-24500,Breakwater Beach (Shoalstone),2021,Excellent,1976 directive,actual assessment
+ukk4200-24500,Breakwater Beach (Shoalstone),2022,Excellent,1976 directive,actual assessment
+ukk4200-24600,St Mary's Bay (Devon),2019,Excellent,1976 directive,actual assessment
+ukk4200-24600,St Mary's Bay (Devon),2021,Excellent,1976 directive,actual assessment
+ukk4200-24600,St Mary's Bay (Devon),2022,Excellent,1976 directive,actual assessment
+ukk4301-21600,Seaton (Devon),2019,Excellent,1976 directive,actual assessment
+ukk4301-21600,Seaton (Devon),2021,Excellent,1976 directive,actual assessment
+ukk4301-21600,Seaton (Devon),2022,Excellent,1976 directive,actual assessment
+ukk4301-21700,Beer,2019,Excellent,1976 directive,actual assessment
+ukk4301-21700,Beer,2021,Excellent,1976 directive,actual assessment
+ukk4301-21700,Beer,2022,Excellent,1976 directive,actual assessment
+ukk4301-21800,Sidmouth Town,2019,Excellent,1976 directive,actual assessment
+ukk4301-21800,Sidmouth Town,2021,Excellent,1976 directive,actual assessment
+ukk4301-21800,Sidmouth Town,2022,Excellent,1976 directive,actual assessment
+ukk4301-21900,Sidmouth Jacobs Ladder,2019,Excellent,1976 directive,actual assessment
+ukk4301-21900,Sidmouth Jacobs Ladder,2021,Excellent,1976 directive,actual assessment
+ukk4301-21900,Sidmouth Jacobs Ladder,2022,Excellent,1976 directive,actual assessment
+ukk4301-22000,Ladram Bay,2019,Good,1976 directive,actual assessment
+ukk4301-22000,Ladram Bay,2021,Good,1976 directive,actual assessment
+ukk4301-22000,Ladram Bay,2022,Excellent,1976 directive,actual assessment
+ukk4301-22100,Budleigh Salterton,2019,Excellent,1976 directive,actual assessment
+ukk4301-22100,Budleigh Salterton,2021,Excellent,1976 directive,actual assessment
+ukk4301-22100,Budleigh Salterton,2022,Excellent,1976 directive,actual assessment
+ukk4301-22200,Sandy Bay,2019,Excellent,1976 directive,actual assessment
+ukk4301-22200,Sandy Bay,2021,Good,1976 directive,actual assessment
+ukk4301-22200,Sandy Bay,2022,Good,1976 directive,actual assessment
+ukk4301-22300,Exmouth,2019,Excellent,1976 directive,actual assessment
+ukk4301-22300,Exmouth,2021,Excellent,1976 directive,actual assessment
+ukk4301-22300,Exmouth,2022,Excellent,1976 directive,actual assessment
+ukk4304-34100,Saunton Sands,2019,Excellent,1976 directive,actual assessment
+ukk4304-34100,Saunton Sands,2021,Excellent,1976 directive,actual assessment
+ukk4304-34100,Saunton Sands,2022,Excellent,1976 directive,actual assessment
+ukk4304-34200,Croyde Bay,2019,Good,1976 directive,actual assessment
+ukk4304-34200,Croyde Bay,2021,Good,1976 directive,actual assessment
+ukk4304-34200,Croyde Bay,2022,Excellent,1976 directive,actual assessment
+ukk4304-34300,Putsborough,2019,Excellent,1976 directive,actual assessment
+ukk4304-34300,Putsborough,2021,Excellent,1976 directive,actual assessment
+ukk4304-34300,Putsborough,2022,Excellent,1976 directive,actual assessment
+ukk4304-34400,Woolacombe Village,2019,Excellent,1976 directive,actual assessment
+ukk4304-34400,Woolacombe Village,2021,Excellent,1976 directive,actual assessment
+ukk4304-34400,Woolacombe Village,2022,Excellent,1976 directive,actual assessment
+ukk4304-34410,"Combesgate Beach, Woolacombe",2019,Excellent,1976 directive,actual assessment
+ukk4304-34410,"Combesgate Beach, Woolacombe",2021,Excellent,1976 directive,actual assessment
+ukk4304-34410,"Combesgate Beach, Woolacombe",2022,Excellent,1976 directive,actual assessment
+ukk4304-34450,Ilfracombe Tunnels Beach,2019,Excellent,1976 directive,actual assessment
+ukk4304-34450,Ilfracombe Tunnels Beach,2021,Excellent,1976 directive,actual assessment
+ukk4304-34450,Ilfracombe Tunnels Beach,2022,Excellent,1976 directive,actual assessment
+ukk4304-34500,Ilfracombe Wildersmouth,2019,Poor,1976 directive,actual assessment
+ukk4304-34600,Ilfracombe Hele,2019,Good,1976 directive,actual assessment
+ukk4304-34600,Ilfracombe Hele,2021,Good,1976 directive,actual assessment
+ukk4304-34600,Ilfracombe Hele,2022,Good,1976 directive,actual assessment
+ukk4304-34700,Combe Martin,2019,Poor,1976 directive,actual assessment
+ukk4304-34700,Combe Martin,2021,Sufficient,1976 directive,actual assessment
+ukk4304-34700,Combe Martin,2022,Good,1976 directive,actual assessment
+ukk4304-34800,Lynmouth,2019,Excellent,1976 directive,actual assessment
+ukk4304-34800,Lynmouth,2021,Excellent,1976 directive,actual assessment
+ukk4304-34800,Lynmouth,2022,Excellent,1976 directive,actual assessment
+ukk4305-24700,Dartmouth Castle and Sugary Cove,2019,Excellent,1976 directive,actual assessment
+ukk4305-24700,Dartmouth Castle and Sugary Cove,2021,Excellent,1976 directive,actual assessment
+ukk4305-24700,Dartmouth Castle and Sugary Cove,2022,Excellent,1976 directive,actual assessment
+ukk4305-24800,Blackpool Sands,2019,Excellent,1976 directive,actual assessment
+ukk4305-24800,Blackpool Sands,2021,Excellent,1976 directive,actual assessment
+ukk4305-24800,Blackpool Sands,2022,Excellent,1976 directive,actual assessment
+ukk4305-24900,Slapton Sands Monument,2019,Excellent,1976 directive,actual assessment
+ukk4305-24900,Slapton Sands Monument,2021,Excellent,1976 directive,actual assessment
+ukk4305-24900,Slapton Sands Monument,2022,Excellent,1976 directive,actual assessment
+ukk4305-25000,Slapton Sands Torcross,2019,Excellent,1976 directive,actual assessment
+ukk4305-25000,Slapton Sands Torcross,2021,Excellent,1976 directive,actual assessment
+ukk4305-25000,Slapton Sands Torcross,2022,Excellent,1976 directive,actual assessment
+ukk4305-25100,Mill Bay,2019,Excellent,1976 directive,actual assessment
+ukk4305-25100,Mill Bay,2021,Excellent,1976 directive,actual assessment
+ukk4305-25100,Mill Bay,2022,Excellent,1976 directive,actual assessment
+ukk4305-25200,Salcombe North Sands,2019,Excellent,1976 directive,actual assessment
+ukk4305-25200,Salcombe North Sands,2021,Excellent,1976 directive,actual assessment
+ukk4305-25200,Salcombe North Sands,2022,Excellent,1976 directive,actual assessment
+ukk4305-25300,Salcombe South Sands,2019,Excellent,1976 directive,actual assessment
+ukk4305-25300,Salcombe South Sands,2021,Excellent,1976 directive,actual assessment
+ukk4305-25300,Salcombe South Sands,2022,Excellent,1976 directive,actual assessment
+ukk4305-25400,Hope Cove,2019,Excellent,1976 directive,actual assessment
+ukk4305-25400,Hope Cove,2021,Excellent,1976 directive,actual assessment
+ukk4305-25400,Hope Cove,2022,Excellent,1976 directive,actual assessment
+ukk4305-25500,Thurlestone South,2019,Excellent,1976 directive,actual assessment
+ukk4305-25500,Thurlestone South,2021,Excellent,1976 directive,actual assessment
+ukk4305-25500,Thurlestone South,2022,Excellent,1976 directive,actual assessment
+ukk4305-25600,Thurlestone North,2019,Excellent,1976 directive,actual assessment
+ukk4305-25600,Thurlestone North,2021,Excellent,1976 directive,actual assessment
+ukk4305-25600,Thurlestone North,2022,Excellent,1976 directive,actual assessment
+ukk4305-25700,Bantham,2019,Excellent,1976 directive,actual assessment
+ukk4305-25700,Bantham,2021,Excellent,1976 directive,actual assessment
+ukk4305-25700,Bantham,2022,Excellent,1976 directive,actual assessment
+ukk4305-25800,Bigbury-on-Sea South,2019,Excellent,1976 directive,actual assessment
+ukk4305-25800,Bigbury-on-Sea South,2021,Excellent,1976 directive,actual assessment
+ukk4305-25800,Bigbury-on-Sea South,2022,Excellent,1976 directive,actual assessment
+ukk4305-25900,Bigbury-on-Sea North,2019,Excellent,1976 directive,actual assessment
+ukk4305-25900,Bigbury-on-Sea North,2021,Excellent,1976 directive,actual assessment
+ukk4305-25900,Bigbury-on-Sea North,2022,Excellent,1976 directive,actual assessment
+ukk4305-26000,Challaborough,2019,Excellent,1976 directive,actual assessment
+ukk4305-26000,Challaborough,2021,Excellent,1976 directive,actual assessment
+ukk4305-26000,Challaborough,2022,Excellent,1976 directive,actual assessment
+ukk4305-26100,Mothecombe,2019,Good,1976 directive,actual assessment
+ukk4305-26100,Mothecombe,2021,Good,1976 directive,actual assessment
+ukk4305-26100,Mothecombe,2022,Good,1976 directive,actual assessment
+ukk4305-26200,Wembury,2019,Excellent,1976 directive,actual assessment
+ukk4305-26200,Wembury,2021,Excellent,1976 directive,actual assessment
+ukk4305-26200,Wembury,2022,Excellent,1976 directive,actual assessment
+ukk4305-26300,Bovisand,2019,Excellent,1976 directive,actual assessment
+ukk4305-26300,Bovisand,2021,Excellent,1976 directive,actual assessment
+ukk4305-26300,Bovisand,2022,Excellent,1976 directive,actual assessment
+ukk4306-22400,Dawlish Warren,2019,Excellent,1976 directive,actual assessment
+ukk4306-22400,Dawlish Warren,2021,Excellent,1976 directive,actual assessment
+ukk4306-22400,Dawlish Warren,2022,Excellent,1976 directive,actual assessment
+ukk4306-22500,Dawlish Town,2019,Good,1976 directive,actual assessment
+ukk4306-22500,Dawlish Town,2021,Good,1976 directive,actual assessment
+ukk4306-22500,Dawlish Town,2022,Good,1976 directive,actual assessment
+ukk4306-22600,Dawlish Coryton Cove,2019,Excellent,1976 directive,actual assessment
+ukk4306-22600,Dawlish Coryton Cove,2021,Excellent,1976 directive,actual assessment
+ukk4306-22600,Dawlish Coryton Cove,2022,Excellent,1976 directive,actual assessment
+ukk4306-22700,Teignmouth Holcombe,2019,Excellent,1976 directive,actual assessment
+ukk4306-22700,Teignmouth Holcombe,2021,Excellent,1976 directive,actual assessment
+ukk4306-22700,Teignmouth Holcombe,2022,Excellent,1976 directive,actual assessment
+ukk4306-22800,Teignmouth Town,2019,Excellent,1976 directive,actual assessment
+ukk4306-22800,Teignmouth Town,2021,Excellent,1976 directive,actual assessment
+ukk4306-22800,Teignmouth Town,2022,Good,1976 directive,actual assessment
+ukk4306-22900,Shaldon,2019,Excellent,1976 directive,actual assessment
+ukk4306-22900,Shaldon,2021,Excellent,1976 directive,actual assessment
+ukk4306-22900,Shaldon,2022,Excellent,1976 directive,actual assessment
+ukk4306-23000,Ness Cove,2019,Excellent,1976 directive,actual assessment
+ukk4306-23000,Ness Cove,2021,Excellent,1976 directive,actual assessment
+ukk4306-23000,Ness Cove,2022,Excellent,1976 directive,actual assessment
+ukk4307-33800,Hartland Quay,2019,Excellent,1976 directive,actual assessment
+ukk4307-33800,Hartland Quay,2021,Excellent,1976 directive,actual assessment
+ukk4307-33800,Hartland Quay,2022,Excellent,1976 directive,actual assessment
+ukk4307-33900,Westward Ho!,2019,Excellent,1976 directive,actual assessment
+ukk4307-33900,Westward Ho!,2021,Excellent,1976 directive,actual assessment
+ukk4307-33900,Westward Ho!,2022,Excellent,1976 directive,actual assessment
